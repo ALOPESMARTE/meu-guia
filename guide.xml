@@ -1,0 +1,4018 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Example">
+    <display-name lang="en">Example</display-name>
+    <url>http://www.dummy</url>
+  </channel>
+  <channel id="Megapix">
+    <display-name lang="pt">Megapix HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="pt">FX HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Space">
+    <display-name lang="pt">Space HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20181128000000 +0000" stop="20181128235900 +0000" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20181129000000 +0000" stop="20181129235900 +0000" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20181130000000 +0000" stop="20181130235900 +0000" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20181201000000 +0000" stop="20181201235900 +0000" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20181202000000 +0000" stop="20181202235900 +0000" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20181128014000 -0200" stop="20181128035500 -0200" channel="Megapix">
+    <title lang="pt">American Pie: O Reencontro</title>
+    <desc lang="pt">Treze anos depois da formatura os ex-companheiros voltam a East Great Fall para desfrutar de uma verdadeira festa de reencontro, onde tudo pode passar. Estes adultos deixarão aparecer os adolescentes de anos atrás(n)</desc>
+    <credits>
+      <director>Jon Hurwitz</director>
+      <director>Hayden Schlossberg</director>
+      <actor>Jason Biggs</actor>
+      <actor>Chris Klein</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Thomas Ian Nicholas</actor>
+      <actor>Tara Reid</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181128035500 -0200" stop="20181128064500 -0200" channel="Megapix">
+    <title lang="pt">Ray</title>
+    <desc lang="pt">Cinebiografia de Ray Charles, músico negro americano que ficou cego aos 7 anos de idade e superou vários obstáculos para se tornar um ídolo internacional na década de 60. O filme aborda também seus problemas com drogas e mulheres(n)</desc>
+    <credits>
+      <director>Taylor Hackford</director>
+      <actor>Jamie Foxx</actor>
+      <actor>Kerry Washington</actor>
+      <actor>Regina King</actor>
+      <actor>Clifton Powell</actor>
+      <actor>Aunjanue Ellis</actor>
+      <actor>Harry J. Lennix</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181128064500 -0200" stop="20181128090500 -0200" channel="Megapix">
+    <title lang="pt">Indiana Jones e o Reino da Caveira de Cristal</title>
+    <desc lang="pt">O quarto filme da série, protagonizada pelo arqueólogo Indiana Jones, foi lançado 19 anos depois do último longa. Nesse, o herói irá se aventurar em 1957, no meio da Guerra Fria, tendo os soviéticos como vilões da história(n)</desc>
+    <credits>
+      <director>Steven Spielberg</director>
+      <actor>Harrison Ford</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>Karen Allen</actor>
+      <actor>Shia LaBeouf</actor>
+      <actor>Ray Winstone</actor>
+      <actor>John Hurt</actor>
+      <actor>Virginie Ledoyen</actor>
+      <actor>Chris Penn</actor>
+      <actor>Jim Broadbent</actor>
+      <actor>Dimitri Diatchenko</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181128090500 -0200" stop="20181128110500 -0200" channel="Megapix">
+    <title lang="pt">Mi-5</title>
+    <desc lang="pt">Em Londres, um terrorista escapa da polícia durante uma transferência. Harry Pearce, chefe da MI-5, toma uma solução drástica ao tentar evitar essa fuga e logo depois desaparece(n)</desc>
+    <credits>
+      <director>Bharat Nalluri</director>
+      <actor>Peter Firth</actor>
+      <actor>Jennifer Ehle</actor>
+      <actor>Kit Harington</actor>
+      <actor>Michael Wildman</actor>
+      <actor>Tuppence Middleton</actor>
+      <actor>Elliot Levey</actor>
+      <actor>Matthew Walker</actor>
+      <actor>David Harewood</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181128110500 -0200" stop="20181128131000 -0200" channel="Megapix">
+    <title lang="pt">Motoqueiro Fantasma</title>
+    <desc lang="pt">Um homem faz um pacto com o diabo: em troca da proteção das duas pessoas que ele mais ama ele se torna um justiceiro, que obedece às suas ordens(n)</desc>
+    <credits>
+      <director>Mark Steven Johnson</director>
+      <actor>Nicolas Cage</actor>
+      <actor>Matt Long</actor>
+      <actor>Eva Mendes</actor>
+      <actor>Raquel Alessi</actor>
+      <actor>Brett Cullen</actor>
+      <actor>Hugh Sexton</actor>
+      <actor>Kenneth Ransom</actor>
+      <actor>Lawrence Cameron Steele</actor>
+      <actor>Peter Fonda</actor>
+      <actor>Jessica Napier</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181128131000 -0200" stop="20181128151500 -0200" channel="Megapix">
+    <title lang="pt">G.I. Joe: Retaliação</title>
+    <desc lang="pt">O exército da equipe G.I. Joe precisa lutar contra os serventes do malvado Comandante Cobra, que sequestrou o presidente dos Estados Unidos e planeja ser o amo do mundo(n)</desc>
+    <credits>
+      <director>Jon M. Chu</director>
+      <actor>Dwayne Johnson</actor>
+      <actor>Jonathan Pryce</actor>
+      <actor>Byung-hun Lee</actor>
+      <actor>Elodie Yung</actor>
+      <actor>Ray Stevenson</actor>
+      <actor>Adrianne Palicki</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181128151500 -0200" stop="20181128165000 -0200" channel="Megapix">
+    <title lang="pt">Com as Próprias Mãos</title>
+    <desc lang="pt">Soldado aposentado das Forças Especiais do exército americano retorna para sua cidade natal com a intenção de reatar antigos laços e iniciar uma nova vida, porém a cidade não é mais a mesma, pois é controlada pelo crime(n)</desc>
+    <credits>
+      <director>Kevin Bray</director>
+      <actor>Johnny Knoxville</actor>
+      <actor>Neal McDonough</actor>
+      <actor>Kristen Wilson</actor>
+      <actor>Ashley Scott</actor>
+      <actor>The Rock</actor>
+      <actor>Kleo Thomas</actor>
+      <actor>Barbara Tarbuck</actor>
+      <actor>Michael Bowen</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181128165000 -0200" stop="20181128190000 -0200" channel="Megapix">
+    <title lang="pt">Polícia Federal - A Lei é Para Todos</title>
+    <desc lang="pt">Durante a realização da Operação Bidone, a Polícia Federal apreende no interior um caminhão carregado de palmito, que trazia escondido 697 kg de cocaína(n)</desc>
+    <credits>
+      <director>Marcelo Antunez</director>
+      <actor>Antonio Calloni</actor>
+      <actor>Roberto Birindelli</actor>
+      <actor>Marcelo Serrado</actor>
+      <actor>Bruce Gomlevsky</actor>
+      <actor>Flávia Alessandra</actor>
+      <actor>Rainer Cadete</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181128190000 -0200" stop="20181128204500 -0200" channel="Megapix">
+    <title lang="pt">Lutador de Rua</title>
+    <desc lang="pt">Em Los Angeles, após cinco anos na prisão, Isaiah Bone se envolve com lutas clandestinas e o crime organizado. Tudo para manter uma promessa feita a um amigo, de proteger sua família(n)</desc>
+    <credits>
+      <director>Ben Ramsey</director>
+      <actor>Michael Jai White</actor>
+      <actor>Eamonn Walker</actor>
+      <actor>Julian Sands</actor>
+      <actor>Dante Basco</actor>
+      <actor>Nona Gaye</actor>
+      <actor>Michelle Belegrin</actor>
+      <actor>Dick Anthony Williams</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181128204500 -0200" stop="20181128223000 -0200" channel="Megapix">
+    <title lang="pt">Boyka: O Imbatível</title>
+    <desc lang="pt">Quando uma morte ocorre acidentalmente no ringue, Boyka passa a questionar tudo aquilo em que ele acredita. Ao descobrir que a mulher do homem morto está em apuros, Boyka faz de tudo para ajudá-la(n)</desc>
+    <credits>
+      <director>Todor Chapkanov</director>
+      <actor>Alon Aboutboul</actor>
+      <actor>Scott Adkins</actor>
+      <actor>Teodora Duhovnikova</actor>
+      <actor>Julian Vergov</actor>
+      <actor>Brahim Achabbakhe</actor>
+      <actor>Valenti Ganev</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181128223000 -0200" stop="20181129014000 -0200" channel="Megapix">
+    <title lang="pt">13° Distrito - Ultimato</title>
+    <desc lang="pt">Nesta continuação do filme de 2004, o muro que isola o Distrito 13 continua de pé. Policiais corruptos incriminam o capitão Damien de posse de drogas e ainda pensam em lucrar com uma obra do governo(n)</desc>
+    <credits>
+      <director>Patrick Alessandrin</director>
+      <actor>David Belle</actor>
+      <actor>Cyril Raffaelli</actor>
+      <actor>Philippe Torreton</actor>
+      <actor>Daniel Duval</actor>
+      <actor>\tElodie Yung</actor>
+      <actor>MC Jean Gab'1</actor>
+      <actor>Laouni Mouhid</actor>
+      <actor>Fabrice Feltzinger</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181129014000 -0200" stop="20181129035500 -0200" channel="Megapix">
+    <title lang="pt">American Pie: O Reencontro</title>
+    <desc lang="pt">Treze anos depois da formatura os ex-companheiros voltam a East Great Fall para desfrutar de uma verdadeira festa de reencontro, onde tudo pode passar. Estes adultos deixarão aparecer os adolescentes de anos atrás(n)</desc>
+    <credits>
+      <director>Jon Hurwitz</director>
+      <director>Hayden Schlossberg</director>
+      <actor>Jason Biggs</actor>
+      <actor>Chris Klein</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Thomas Ian Nicholas</actor>
+      <actor>Tara Reid</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181129035500 -0200" stop="20181129064500 -0200" channel="Megapix">
+    <title lang="pt">Ray</title>
+    <desc lang="pt">Cinebiografia de Ray Charles, músico negro americano que ficou cego aos 7 anos de idade e superou vários obstáculos para se tornar um ídolo internacional na década de 60. O filme aborda também seus problemas com drogas e mulheres(n)</desc>
+    <credits>
+      <director>Taylor Hackford</director>
+      <actor>Jamie Foxx</actor>
+      <actor>Kerry Washington</actor>
+      <actor>Regina King</actor>
+      <actor>Clifton Powell</actor>
+      <actor>Aunjanue Ellis</actor>
+      <actor>Harry J. Lennix</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181129064500 -0200" stop="20181129090500 -0200" channel="Megapix">
+    <title lang="pt">Indiana Jones e o Reino da Caveira de Cristal</title>
+    <desc lang="pt">O quarto filme da série, protagonizada pelo arqueólogo Indiana Jones, foi lançado 19 anos depois do último longa. Nesse, o herói irá se aventurar em 1957, no meio da Guerra Fria, tendo os soviéticos como vilões da história(n)</desc>
+    <credits>
+      <director>Steven Spielberg</director>
+      <actor>Harrison Ford</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>Karen Allen</actor>
+      <actor>Shia LaBeouf</actor>
+      <actor>Ray Winstone</actor>
+      <actor>John Hurt</actor>
+      <actor>Virginie Ledoyen</actor>
+      <actor>Chris Penn</actor>
+      <actor>Jim Broadbent</actor>
+      <actor>Dimitri Diatchenko</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181129090500 -0200" stop="20181129110500 -0200" channel="Megapix">
+    <title lang="pt">Mi-5</title>
+    <desc lang="pt">Em Londres, um terrorista escapa da polícia durante uma transferência. Harry Pearce, chefe da MI-5, toma uma solução drástica ao tentar evitar essa fuga e logo depois desaparece(n)</desc>
+    <credits>
+      <director>Bharat Nalluri</director>
+      <actor>Peter Firth</actor>
+      <actor>Jennifer Ehle</actor>
+      <actor>Kit Harington</actor>
+      <actor>Michael Wildman</actor>
+      <actor>Tuppence Middleton</actor>
+      <actor>Elliot Levey</actor>
+      <actor>Matthew Walker</actor>
+      <actor>David Harewood</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181129110500 -0200" stop="20181129131000 -0200" channel="Megapix">
+    <title lang="pt">Motoqueiro Fantasma</title>
+    <desc lang="pt">Um homem faz um pacto com o diabo: em troca da proteção das duas pessoas que ele mais ama ele se torna um justiceiro, que obedece às suas ordens(n)</desc>
+    <credits>
+      <director>Mark Steven Johnson</director>
+      <actor>Nicolas Cage</actor>
+      <actor>Matt Long</actor>
+      <actor>Eva Mendes</actor>
+      <actor>Raquel Alessi</actor>
+      <actor>Brett Cullen</actor>
+      <actor>Hugh Sexton</actor>
+      <actor>Kenneth Ransom</actor>
+      <actor>Lawrence Cameron Steele</actor>
+      <actor>Peter Fonda</actor>
+      <actor>Jessica Napier</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181129131000 -0200" stop="20181129151500 -0200" channel="Megapix">
+    <title lang="pt">G.I. Joe: Retaliação</title>
+    <desc lang="pt">O exército da equipe G.I. Joe precisa lutar contra os serventes do malvado Comandante Cobra, que sequestrou o presidente dos Estados Unidos e planeja ser o amo do mundo(n)</desc>
+    <credits>
+      <director>Jon M. Chu</director>
+      <actor>Dwayne Johnson</actor>
+      <actor>Jonathan Pryce</actor>
+      <actor>Byung-hun Lee</actor>
+      <actor>Elodie Yung</actor>
+      <actor>Ray Stevenson</actor>
+      <actor>Adrianne Palicki</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181129151500 -0200" stop="20181129165000 -0200" channel="Megapix">
+    <title lang="pt">Com as Próprias Mãos</title>
+    <desc lang="pt">Soldado aposentado das Forças Especiais do exército americano retorna para sua cidade natal com a intenção de reatar antigos laços e iniciar uma nova vida, porém a cidade não é mais a mesma, pois é controlada pelo crime(n)</desc>
+    <credits>
+      <director>Kevin Bray</director>
+      <actor>Johnny Knoxville</actor>
+      <actor>Neal McDonough</actor>
+      <actor>Kristen Wilson</actor>
+      <actor>Ashley Scott</actor>
+      <actor>The Rock</actor>
+      <actor>Kleo Thomas</actor>
+      <actor>Barbara Tarbuck</actor>
+      <actor>Michael Bowen</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181129165000 -0200" stop="20181129190000 -0200" channel="Megapix">
+    <title lang="pt">Polícia Federal - A Lei é Para Todos</title>
+    <desc lang="pt">Durante a realização da Operação Bidone, a Polícia Federal apreende no interior um caminhão carregado de palmito, que trazia escondido 697 kg de cocaína(n)</desc>
+    <credits>
+      <director>Marcelo Antunez</director>
+      <actor>Antonio Calloni</actor>
+      <actor>Roberto Birindelli</actor>
+      <actor>Marcelo Serrado</actor>
+      <actor>Bruce Gomlevsky</actor>
+      <actor>Flávia Alessandra</actor>
+      <actor>Rainer Cadete</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181129190000 -0200" stop="20181129204500 -0200" channel="Megapix">
+    <title lang="pt">Lutador de Rua</title>
+    <desc lang="pt">Em Los Angeles, após cinco anos na prisão, Isaiah Bone se envolve com lutas clandestinas e o crime organizado. Tudo para manter uma promessa feita a um amigo, de proteger sua família(n)</desc>
+    <credits>
+      <director>Ben Ramsey</director>
+      <actor>Michael Jai White</actor>
+      <actor>Eamonn Walker</actor>
+      <actor>Julian Sands</actor>
+      <actor>Dante Basco</actor>
+      <actor>Nona Gaye</actor>
+      <actor>Michelle Belegrin</actor>
+      <actor>Dick Anthony Williams</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181129204500 -0200" stop="20181129223000 -0200" channel="Megapix">
+    <title lang="pt">Boyka: O Imbatível</title>
+    <desc lang="pt">Quando uma morte ocorre acidentalmente no ringue, Boyka passa a questionar tudo aquilo em que ele acredita. Ao descobrir que a mulher do homem morto está em apuros, Boyka faz de tudo para ajudá-la(n)</desc>
+    <credits>
+      <director>Todor Chapkanov</director>
+      <actor>Alon Aboutboul</actor>
+      <actor>Scott Adkins</actor>
+      <actor>Teodora Duhovnikova</actor>
+      <actor>Julian Vergov</actor>
+      <actor>Brahim Achabbakhe</actor>
+      <actor>Valenti Ganev</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181129223000 -0200" stop="20181130003000 -0200" channel="Megapix">
+    <title lang="pt">13° Distrito - Ultimato</title>
+    <desc lang="pt">Nesta continuação do filme de 2004, o muro que isola o Distrito 13 continua de pé. Policiais corruptos incriminam o capitão Damien de posse de drogas e ainda pensam em lucrar com uma obra do governo(n)</desc>
+    <credits>
+      <director>Patrick Alessandrin</director>
+      <actor>David Belle</actor>
+      <actor>Cyril Raffaelli</actor>
+      <actor>Philippe Torreton</actor>
+      <actor>Daniel Duval</actor>
+      <actor>\tElodie Yung</actor>
+      <actor>MC Jean Gab'1</actor>
+      <actor>Laouni Mouhid</actor>
+      <actor>Fabrice Feltzinger</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181130003000 -0200" stop="20181130023000 -0200" channel="Megapix">
+    <title lang="pt">Jogos Mortais</title>
+    <desc lang="pt">Dois homens acordam acorrentados num cano dentro de um banheiro sem saber como foram parar lá. Logo, descobrem que foram capturados por um serial killer que induz suas vítimas a cometerem atos dolorosos para salvar as suas vidas(n)</desc>
+    <credits>
+      <director>James Wan</director>
+      <actor>Leigh Whannell</actor>
+      <actor>Cary Elwes</actor>
+      <actor>Danny Glover</actor>
+      <actor>Ken Leung</actor>
+      <actor>Dina Meyer</actor>
+      <actor>Mike Butters</actor>
+      <actor>Paul Gutrecht</actor>
+      <actor>Michael Emerson</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181130023000 -0200" stop="20181130043000 -0200" channel="Megapix">
+    <title lang="pt">O Hóspede</title>
+    <desc lang="pt">O soldado David é bem-recebido na família Peterson após se apresentar como amigo do filho deles, morto em guerra. No entanto, uma série de mortes começa a ocorrer desde sua chegada(n)</desc>
+    <credits>
+      <director>Adam Wingard</director>
+      <actor>Sheila Kelley</actor>
+      <actor>Dan Stevens</actor>
+      <actor>Maika Monroe</actor>
+      <actor>Brendan Meyer</actor>
+      <actor>Lance Reddick</actor>
+      <actor>Brenden Wedner</actor>
+      <actor>Ethan Embry</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181130043000 -0200" stop="20181130062000 -0200" channel="Megapix">
+    <title lang="pt">12 Horas</title>
+    <desc lang="pt">Dois anos após ter sido raptada, Jill descobre que sua irmã despareceu e está convencida de que se trata do mesmo sequestrador. Sem o apoio da polícia. ela resolve ir à busca de sua irmã e enfrentar o criminoso sozinha(n)</desc>
+    <credits>
+      <director>Heitor Dhalia</director>
+      <actor>Amanda Seyfried</actor>
+      <actor>Jennifer Carpenter</actor>
+      <actor>Wess Bentley</actor>
+      <actor>Sebastian Stan</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181130062000 -0200" stop="20181130085000 -0200" channel="Megapix">
+    <title lang="pt">O Legado Bourne</title>
+    <desc lang="pt">Quando segredos do governo são revelados, as autoridades tentam abafar projetos sigilosos, como um que consiste em alterar o metabolismo de agentes com remédios. Para isso, os agentes em questão são mortos, exceto Aaron(n)</desc>
+    <credits>
+      <director>Tony Gilroy</director>
+      <actor>Jeremy Renner</actor>
+      <actor>Scott Glenn</actor>
+      <actor>Stacy Keach</actor>
+      <actor>Edward Norton</actor>
+      <actor>Donna Murphy</actor>
+      <actor>Rachel Weisz</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181130085000 -0200" stop="20181130110000 -0200" channel="Megapix">
+    <title lang="pt">Red - Aposentados e Perigosos</title>
+    <desc lang="pt">Frank é um agente da CIA, aposentado. Mas é forçado a entrar em ação novamente e reunir sua equipe, quando um assassino high-tech põe em risco sua vida e de sua companheira(n)</desc>
+    <credits>
+      <director>Robert Schwentke</director>
+      <actor>Bruce Willis</actor>
+      <actor>Morgan Freeman</actor>
+      <actor>Helen Mirren</actor>
+      <actor>John Malcovich</actor>
+      <actor>Mary - Louise Parker</actor>
+      <actor>Rebecca Pidgeon</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181130110000 -0200" stop="20181130131000 -0200" channel="Megapix">
+    <title lang="pt">Heróis</title>
+    <desc lang="pt">Um grupo de americanos, com poderes paranormais, une-se contra uma agência clandestina do governo que está transformando geneticamente cidadãos normais em poderosos armas(n)</desc>
+    <credits>
+      <director>Paul McGuigan</director>
+      <actor>Chris Evans</actor>
+      <actor>Dakota Fanning</actor>
+      <actor>Camilla Belle</actor>
+      <actor>Neil Jackson</actor>
+      <actor>Robert Tsonos</actor>
+      <actor>Brandon Rhea</actor>
+      <actor>Kai Cheung Leung</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181130131000 -0200" stop="20181130154000 -0200" channel="Megapix">
+    <title lang="pt">Piratas do Caribe: Navegando em Águas Misteriosas</title>
+    <desc lang="pt">Johnny Depp volta como Jack Sparrow em uma história de traição, juventude e morte. Quando Jack se encontra com uma mulher do seu passado, não sabe se é amor ou uma interesseira usando-o para encontrar a Fonte da Juventude(n)</desc>
+    <credits>
+      <director>Rob Marshall</director>
+      <actor>Johnny Depp</actor>
+      <actor>Penélope Cruz</actor>
+      <actor>Geoffrey Rush</actor>
+      <actor>Ian McShane</actor>
+      <actor>Kevin McNally</actor>
+      <actor>Sam Claflin</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181130154000 -0200" stop="20181130173000 -0200" channel="Megapix">
+    <title lang="pt">Carrossel 2 - O Sumiço de Maria Joaquina</title>
+    <desc lang="pt">As crianças da Escola Mundial são convidadas para um show da estrela Didi Mel. Mas a viagem se torna um pesadelo quando os vilões Gonzales e Gonzalito, recém-saídos da prisão, decidem sequestrar Maria Joaquina(n)</desc>
+    <credits>
+      <director>Maurício Eça</director>
+      <actor>Jean Paulo Campos</actor>
+      <actor>Larissa Manoela</actor>
+      <actor>Maisa Silva</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181130173000 -0200" stop="20181130194000 -0200" channel="Megapix">
+    <title lang="pt">Esposa de Mentirinha</title>
+    <desc lang="pt">Em uma viagem ao Havaí, um cirurgião plástico convence sua fiel assistente a se fazer passar por sua ex-mulher a fim de cobrir uma mentira que contou para sua namorada muito mais jovem(n)</desc>
+    <credits>
+      <director>Dennis Dugan</director>
+      <actor>Dave Matthews</actor>
+      <actor>Nick Swardson</actor>
+      <actor>Nicole Kidman</actor>
+      <actor>Jennifer Aniston</actor>
+      <actor>Brooklyn Decker</actor>
+      <actor>Adam Sandler</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20181130194000 -0200" stop="20181130213000 -0200" channel="Megapix">
+    <title lang="pt">De Repente 30</title>
+    <desc lang="pt">Menina de 13 anos tem um desejo: tornar-se uma atraente e bem-sucedida mulher de 30. Com a ajuda de um pó mágico, seu sonho se transforma em realidade. Agora adulta, ela luta para recuperar seu verdadeiro amor e sua vida(n)</desc>
+    <credits>
+      <director>Gary Winick</director>
+      <actor>Jennifer Garner</actor>
+      <actor>Mark Ruffalo</actor>
+      <actor>Judy Greer</actor>
+      <actor>Andy Serkis</actor>
+      <actor>Kathy Baker</actor>
+      <actor>Phil Reeves</actor>
+      <actor>Samuel Ball</actor>
+      <actor>Marcia DeBonis</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181130213000 -0200" stop="20181130234000 -0200" channel="Megapix">
+    <title lang="pt">A Saga Crepúsculo: Amanhecer - Parte 1</title>
+    <desc lang="pt">Bella e Edward finalmente se casam. A felicidade dos dois parece não ter limites, e Bella descobre estar grávida. Mas a criança que eles esperam gera grandes receios e os coloca em uma disputa mortal(n)</desc>
+    <credits>
+      <director>Bill Condon</director>
+      <actor>Kristen Stewart</actor>
+      <actor>Robert Pattinson</actor>
+      <actor>Taylor Lautner</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181130234000 -0200" stop="20181201003000 -0200" channel="Megapix">
+    <title lang="pt">A Bela e a Fera (2014)</title>
+    <desc lang="pt">Um comerciante falido arranca uma rosa de um jardim encantado e se depara com uma terrível Fera. Para salvar seu pai de um destino cruel, Bela se voluntaria para ir em seu lugar(n)</desc>
+    <credits>
+      <director>Christophe Gans</director>
+      <actor>André Dussollier</actor>
+      <actor>Vicent Cassel</actor>
+      <actor>Léa Seydoux</actor>
+      <actor>Eduardo Noriega</actor>
+      <actor>Myriam Charleins</actor>
+      <actor>Sara Giraudeau</actor>
+      <actor>Myriam Charleins</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181201003000 -0200" stop="20181201023000 -0200" channel="Megapix">
+    <title lang="pt">Jogos Mortais</title>
+    <desc lang="pt">Dois homens acordam acorrentados num cano dentro de um banheiro sem saber como foram parar lá. Logo, descobrem que foram capturados por um serial killer que induz suas vítimas a cometerem atos dolorosos para salvar as suas vidas(n)</desc>
+    <credits>
+      <director>James Wan</director>
+      <actor>Leigh Whannell</actor>
+      <actor>Cary Elwes</actor>
+      <actor>Danny Glover</actor>
+      <actor>Ken Leung</actor>
+      <actor>Dina Meyer</actor>
+      <actor>Mike Butters</actor>
+      <actor>Paul Gutrecht</actor>
+      <actor>Michael Emerson</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181201023000 -0200" stop="20181201043000 -0200" channel="Megapix">
+    <title lang="pt">O Hóspede</title>
+    <desc lang="pt">O soldado David é bem-recebido na família Peterson após se apresentar como amigo do filho deles, morto em guerra. No entanto, uma série de mortes começa a ocorrer desde sua chegada(n)</desc>
+    <credits>
+      <director>Adam Wingard</director>
+      <actor>Sheila Kelley</actor>
+      <actor>Dan Stevens</actor>
+      <actor>Maika Monroe</actor>
+      <actor>Brendan Meyer</actor>
+      <actor>Lance Reddick</actor>
+      <actor>Brenden Wedner</actor>
+      <actor>Ethan Embry</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181201043000 -0200" stop="20181201062000 -0200" channel="Megapix">
+    <title lang="pt">12 Horas</title>
+    <desc lang="pt">Dois anos após ter sido raptada, Jill descobre que sua irmã despareceu e está convencida de que se trata do mesmo sequestrador. Sem o apoio da polícia. ela resolve ir à busca de sua irmã e enfrentar o criminoso sozinha(n)</desc>
+    <credits>
+      <director>Heitor Dhalia</director>
+      <actor>Amanda Seyfried</actor>
+      <actor>Jennifer Carpenter</actor>
+      <actor>Wess Bentley</actor>
+      <actor>Sebastian Stan</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181201062000 -0200" stop="20181201085000 -0200" channel="Megapix">
+    <title lang="pt">O Legado Bourne</title>
+    <desc lang="pt">Quando segredos do governo são revelados, as autoridades tentam abafar projetos sigilosos, como um que consiste em alterar o metabolismo de agentes com remédios. Para isso, os agentes em questão são mortos, exceto Aaron(n)</desc>
+    <credits>
+      <director>Tony Gilroy</director>
+      <actor>Jeremy Renner</actor>
+      <actor>Scott Glenn</actor>
+      <actor>Stacy Keach</actor>
+      <actor>Edward Norton</actor>
+      <actor>Donna Murphy</actor>
+      <actor>Rachel Weisz</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181201085000 -0200" stop="20181201110000 -0200" channel="Megapix">
+    <title lang="pt">Red - Aposentados e Perigosos</title>
+    <desc lang="pt">Frank é um agente da CIA, aposentado. Mas é forçado a entrar em ação novamente e reunir sua equipe, quando um assassino high-tech põe em risco sua vida e de sua companheira(n)</desc>
+    <credits>
+      <director>Robert Schwentke</director>
+      <actor>Bruce Willis</actor>
+      <actor>Morgan Freeman</actor>
+      <actor>Helen Mirren</actor>
+      <actor>John Malcovich</actor>
+      <actor>Mary - Louise Parker</actor>
+      <actor>Rebecca Pidgeon</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181201110000 -0200" stop="20181201131000 -0200" channel="Megapix">
+    <title lang="pt">Heróis</title>
+    <desc lang="pt">Um grupo de americanos, com poderes paranormais, une-se contra uma agência clandestina do governo que está transformando geneticamente cidadãos normais em poderosos armas(n)</desc>
+    <credits>
+      <director>Paul McGuigan</director>
+      <actor>Chris Evans</actor>
+      <actor>Dakota Fanning</actor>
+      <actor>Camilla Belle</actor>
+      <actor>Neil Jackson</actor>
+      <actor>Robert Tsonos</actor>
+      <actor>Brandon Rhea</actor>
+      <actor>Kai Cheung Leung</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181201131000 -0200" stop="20181201154000 -0200" channel="Megapix">
+    <title lang="pt">Piratas do Caribe: Navegando em Águas Misteriosas</title>
+    <desc lang="pt">Johnny Depp volta como Jack Sparrow em uma história de traição, juventude e morte. Quando Jack se encontra com uma mulher do seu passado, não sabe se é amor ou uma interesseira usando-o para encontrar a Fonte da Juventude(n)</desc>
+    <credits>
+      <director>Rob Marshall</director>
+      <actor>Johnny Depp</actor>
+      <actor>Penélope Cruz</actor>
+      <actor>Geoffrey Rush</actor>
+      <actor>Ian McShane</actor>
+      <actor>Kevin McNally</actor>
+      <actor>Sam Claflin</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181201154000 -0200" stop="20181201173000 -0200" channel="Megapix">
+    <title lang="pt">Carrossel 2 - O Sumiço de Maria Joaquina</title>
+    <desc lang="pt">As crianças da Escola Mundial são convidadas para um show da estrela Didi Mel. Mas a viagem se torna um pesadelo quando os vilões Gonzales e Gonzalito, recém-saídos da prisão, decidem sequestrar Maria Joaquina(n)</desc>
+    <credits>
+      <director>Maurício Eça</director>
+      <actor>Jean Paulo Campos</actor>
+      <actor>Larissa Manoela</actor>
+      <actor>Maisa Silva</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181201173000 -0200" stop="20181201194000 -0200" channel="Megapix">
+    <title lang="pt">Esposa de Mentirinha</title>
+    <desc lang="pt">Em uma viagem ao Havaí, um cirurgião plástico convence sua fiel assistente a se fazer passar por sua ex-mulher a fim de cobrir uma mentira que contou para sua namorada muito mais jovem(n)</desc>
+    <credits>
+      <director>Dennis Dugan</director>
+      <actor>Dave Matthews</actor>
+      <actor>Nick Swardson</actor>
+      <actor>Nicole Kidman</actor>
+      <actor>Jennifer Aniston</actor>
+      <actor>Brooklyn Decker</actor>
+      <actor>Adam Sandler</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20181201194000 -0200" stop="20181201213000 -0200" channel="Megapix">
+    <title lang="pt">De Repente 30</title>
+    <desc lang="pt">Menina de 13 anos tem um desejo: tornar-se uma atraente e bem-sucedida mulher de 30. Com a ajuda de um pó mágico, seu sonho se transforma em realidade. Agora adulta, ela luta para recuperar seu verdadeiro amor e sua vida(n)</desc>
+    <credits>
+      <director>Gary Winick</director>
+      <actor>Jennifer Garner</actor>
+      <actor>Mark Ruffalo</actor>
+      <actor>Judy Greer</actor>
+      <actor>Andy Serkis</actor>
+      <actor>Kathy Baker</actor>
+      <actor>Phil Reeves</actor>
+      <actor>Samuel Ball</actor>
+      <actor>Marcia DeBonis</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181201213000 -0200" stop="20181201234000 -0200" channel="Megapix">
+    <title lang="pt">A Saga Crepúsculo: Amanhecer - Parte 1</title>
+    <desc lang="pt">Bella e Edward finalmente se casam. A felicidade dos dois parece não ter limites, e Bella descobre estar grávida. Mas a criança que eles esperam gera grandes receios e os coloca em uma disputa mortal(n)</desc>
+    <credits>
+      <director>Bill Condon</director>
+      <actor>Kristen Stewart</actor>
+      <actor>Robert Pattinson</actor>
+      <actor>Taylor Lautner</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181201234000 -0200" stop="20181202015000 -0200" channel="Megapix">
+    <title lang="pt">A Bela e a Fera (2014)</title>
+    <desc lang="pt">Um comerciante falido arranca uma rosa de um jardim encantado e se depara com uma terrível Fera. Para salvar seu pai de um destino cruel, Bela se voluntaria para ir em seu lugar(n)</desc>
+    <credits>
+      <director>Christophe Gans</director>
+      <actor>André Dussollier</actor>
+      <actor>Vicent Cassel</actor>
+      <actor>Léa Seydoux</actor>
+      <actor>Eduardo Noriega</actor>
+      <actor>Myriam Charleins</actor>
+      <actor>Sara Giraudeau</actor>
+      <actor>Myriam Charleins</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181202015000 -0200" stop="20181202043000 -0200" channel="Megapix">
+    <title lang="pt">Cavalo de Guerra</title>
+    <desc lang="pt">Steven Spielberg dirige este drama sobre um jovem chamado Albert, seu cavalo Joey e como este vínculo se rompe quando Joey é vendido à cavalaria e enviado às trincheiras da 1ª Guerra Mundial. Albert precisa salvar seu amigo(n)</desc>
+    <credits>
+      <director>Steven Spielberg</director>
+      <actor>Jeremy Irvine</actor>
+      <actor>Peter Mullan</actor>
+      <actor>Emily Watson</actor>
+      <actor>Niels Arestrup</actor>
+      <actor>David Thewlis</actor>
+      <actor>Tom Hiddleston</actor>
+      <actor>Benedict Cumberbatch</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181202043000 -0200" stop="20181202062500 -0200" channel="Megapix">
+    <title lang="pt">Star Wars: A Guerra dos Clones</title>
+    <desc lang="pt">A saga(n)</desc>
+    <credits>
+      <director>Dave Filoni</director>
+      <actor>Vozes de Matt Lanter</actor>
+      <actor>Ashley Drane</actor>
+      <actor>James Arnold Taylor</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Tom Kane</actor>
+      <actor>Nika Futterman</actor>
+      <actor>Ian Abercrombie</actor>
+      <actor>Corey Burton</actor>
+      <actor>Catherine Taber</actor>
+      <actor>Matthew Wood</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181202062500 -0200" stop="20181202081500 -0200" channel="Megapix">
+    <title lang="pt">Anastasia (1997)</title>
+    <desc lang="pt">Pequena princesa sobrevive à revolução, mas perde a memória, 10 anos depois um vigarista a convence que ela pode ser a princesa desaparecida(n)</desc>
+    <credits>
+      <director>Don Bluth</director>
+      <director>Gary Goldman</director>
+      <actor>Vozes de Meg Ryan</actor>
+      <actor>John Cusack</actor>
+      <actor>Kelsey Grammer</actor>
+      <actor>Angela Lansbury</actor>
+      <actor>Christopher Lloyd</actor>
+      <actor>Hank Azaria</actor>
+      <actor>Bernadette Peters</actor>
+      <actor>Andrea Martin</actor>
+      <actor>Charity James</actor>
+    </credits>
+    <date>1997</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181202081500 -0200" stop="20181202102500 -0200" channel="Megapix">
+    <title lang="pt">A Escolha Perfeita</title>
+    <desc lang="pt">A faculdade é um lugar que Beca não tem muita vontade de ir, entretanto terá que fazer a vontade de seu pai e ir. O que ela não sabe é que encontrará o lugar para desenvolver seu talento na música(n)</desc>
+    <credits>
+      <director>Jason Moore</director>
+      <actor>Skylar Astin</actor>
+      <actor>Ben Platt</actor>
+      <actor>Anna Kendrick</actor>
+      <actor>Brittany Snow</actor>
+      <actor>Anna Camp</actor>
+      <actor>Rebel Wilson</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181202102500 -0200" stop="20181202122500 -0200" channel="Megapix">
+    <title lang="pt">Roubo nas Alturas</title>
+    <desc lang="pt">Uma comédia protagonizada por Ben Stiller e Eddie Murphy como trabalhadores que querem se vingar do magnata de Wall Street e para isso planejam fazer uma vingança suprema: um assalto para recuperar o que foi roubado(n)</desc>
+    <credits>
+      <director>Brett Ratner</director>
+      <actor>Ben Stiller</actor>
+      <actor>Eddie Murphy</actor>
+      <actor>Casey Affleck</actor>
+      <actor>Alan Alda</actor>
+      <actor>Matthew Broderick</actor>
+      <actor>Stephen Henderson</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181202122500 -0200" stop="20181202144000 -0200" channel="Megapix">
+    <title lang="pt">A Série Divergente: Convergente</title>
+    <desc lang="pt">Depois da queda de Jeanine, líder da Erudição, Tris e Quatro não concordam com os novos rumos da revolução. Eles então decidem partir e tentar descobrir o que existe além dos muros de Chicago(n)</desc>
+    <credits>
+      <director>Robert Schwentke</director>
+      <actor>Jeff Daniels</actor>
+      <actor>Shailene Woodley</actor>
+      <actor>Theo James</actor>
+      <actor>Naomi Watts</actor>
+      <actor>Octavia Spencer</actor>
+      <actor>Jeff Daniels</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181202144000 -0200" stop="20181202173000 -0200" channel="Megapix">
+    <title lang="pt">Transformers: O Lado Oculto da Lua</title>
+    <desc lang="pt">Uma nave que leva um objeto capaz de trazer a paz entre Autobots e Decepticons bate na lua. Os astronautas do Apolo 11 exploram a nave em 1969 e Sam segue sua pista para encontrar o líder dos Autobots que viajava na nave(n)</desc>
+    <credits>
+      <director>Michael Bay</director>
+      <actor>Shia LaBeouf</actor>
+      <actor>Josh Duhamel</actor>
+      <actor>John Turturro</actor>
+      <actor>Tyrese Gibson</actor>
+      <actor>Rosie Huntington-Whiteley</actor>
+      <actor>Patrick Dempsey</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181202173000 -0200" stop="20181202195000 -0200" channel="Megapix">
+    <title lang="pt">Gigantes de Aço</title>
+    <desc lang="pt">Viva a adrenalina e o frenesi de uma atividade como a luta de Robôs. Esta é a história de um ex-campeão de boxe que, empurrado pelo forte desejo de uma criança, volta ao mundo da luta como um misterioso andróide(n)</desc>
+    <credits>
+      <director>Shawn Levy</director>
+      <actor>Hugh Jackman</actor>
+      <actor>Dakota Goyo</actor>
+      <actor>Evangeline Lilly</actor>
+      <actor>Anthony Mackie</actor>
+      <actor>Kevin Durand</actor>
+      <actor>Hope Davis</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20181202195000 -0200" stop="20181202213000 -0200" channel="Megapix">
+    <title lang="pt">Herança de Sangue</title>
+    <desc lang="pt">Link vive isolado de todos, morando em um trailer no meio do deserto. Sua tranquilidade é abalada quando sua filha Lydia reaparece e é ameaçada de morte por traficantes. Agora, Link fará de tudo para protegê-la(n)</desc>
+    <credits>
+      <director>Jean-François Richet</director>
+      <actor>Mel Gibson</actor>
+      <actor>Diego Luna</actor>
+      <actor>Erin Moriarty</actor>
+      <actor>Michael Parks</actor>
+      <actor>Dale Dickey</actor>
+      <actor>William H. Macy</actor>
+      <actor>Miguel Sandoval</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181202213000 -0200" stop="20181202232000 -0200" channel="Megapix">
+    <title lang="pt">Carga Preciosa</title>
+    <desc lang="pt">Karen, uma sedutora e traidora ladra, está sendo perseguida pelo chefe do crime Eddie. Com a intenção de conquistar novamente a confiança de Eddie(n)</desc>
+    <credits>
+      <director>Max Adams</director>
+      <actor>Bruce Willis</actor>
+      <actor>Claire Forlani</actor>
+      <actor>Mark-Paul Gosselaar</actor>
+      <actor>Jenna B. Kelly</actor>
+      <actor>Daniel Bernhardt</actor>
+      <actor>Christopher Rob Bowen</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181202232000 -0200" stop="20181203015000 -0200" channel="Megapix">
+    <title lang="pt">O Ataque</title>
+    <desc lang="pt">A Casa Branca foi atacada por terroristas. Agora, com o governo da nação caindo no caos, o policial John Cale terá a responsabilidade de salvar o presidente, o país e sua filha(n)</desc>
+    <credits>
+      <director>Roland Emmerich</director>
+      <actor>Channing Tatum</actor>
+      <actor>Jamie Foxx</actor>
+      <actor>Maggie Gyllenhaal</actor>
+      <actor>Richard Jenkins</actor>
+      <actor>James Woods</actor>
+      <actor>Nicolas Wright</actor>
+      <actor>Jimmi Simpson</actor>
+      <actor>Michael Murphy</actor>
+      <actor>Rachelle Lefevre</actor>
+      <actor>Lance Reddick</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181128005000 -0200" stop="20181128011500 -0200" channel="FX">
+    <title lang="pt">American Dad</title>
+    <desc lang="pt">Roger vai morar com Greg e Terry(n)</desc>
+    <credits>
+      <director>Joe Daniello</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Scott Grimes</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S11 E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181128011500 -0200" stop="20181128014000 -0200" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Ao perceber que Brian pode estar ficando velho, Peter arruma um cachorro mais novo e mais feliz. O cão passa a ser adorado pelos Griffins, o que leva Brian a ir embora(n)</desc>
+    <credits>
+      <director>Dominic Bianchi</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Alex Borstein</actor>
+      <actor>Seth Green</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Mike Henry</actor>
+      <actor>Candace Marie</actor>
+      <actor>Danny Smith</actor>
+    </credits>
+    <date>2009</date>
+    <episode-num system="onscreen">S8 E5</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181128014000 -0200" stop="20181128021000 -0200" channel="FX">
+    <title lang="pt">Bob's Burgers</title>
+    <desc lang="pt">Quando Tina fica sabendo que o aquário está em perigo e pode fechar, os irmãos Belchers armam um plano para que continue funcionando(n)</desc>
+    <credits>
+      <director>Chris Song</director>
+      <actor>Vozes de H. Jon Benjamin</actor>
+      <actor>Dan Mintz</actor>
+      <actor>Eugene Mirman</actor>
+      <actor>John Roberts</actor>
+      <actor>Kristen Schaal</actor>
+      <actor>Andy Kindler</actor>
+      <actor>Larry Murphy</actor>
+      <actor>Melissa Bardin Galsky</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S7 E14</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181128021000 -0200" stop="20181128034000 -0200" channel="FX">
+    <title lang="pt">Kung Fu Futebol Clube</title>
+    <desc lang="pt">Com muita ação, efeitos especiais e gargalhadas, Kung Fu Futebol Clube é uma comédia que conta a história de um grupo que tenta a qualquer custo ganhar uma competição(n)</desc>
+    <credits>
+      <director>Stephen Chow</director>
+      <actor>Stephen Chow</actor>
+      <actor>Wei Zhao</actor>
+      <actor>Yin Tse</actor>
+      <actor>Man Tat Ng</actor>
+      <actor>Law Kar-Ying</actor>
+      <actor>\tCecilia Cheung</actor>
+      <actor>Chi Ling Chiu</actor>
+    </credits>
+    <date>2001</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181128034000 -0200" stop="20181128053500 -0200" channel="FX">
+    <title lang="pt">Procura-se Amy</title>
+    <desc lang="pt">Holden e Banky são dois melhores amigos. Tudo vai bem até que Holden se apaixona por Alyssa, uma lésbica, e ela retribui seu afeto, fazendo com que os três tenham que lidar com o ciúme de Banky e o passado de Alyssa(n)</desc>
+    <credits>
+      <director>Kevin Smith</director>
+      <actor>Ben Affleck</actor>
+      <actor>Joey Lauren Adams</actor>
+      <actor>Jason Lee</actor>
+      <actor>Kevin Smith</actor>
+      <actor>Jason Mewes</actor>
+    </credits>
+    <date>1997</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181128053500 -0200" stop="20181128060000 -0200" channel="FX">
+    <title lang="pt">American Dad</title>
+    <desc lang="pt">Quando Stan e Francine estão prestes a completar 20 anos de casados, ela abandona seu regime com o propósito de descobrir se o amor de Stan por ela vai além da aparência física(n)</desc>
+    <credits>
+      <director>John Aoshima</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Scott Grimes</actor>
+      <actor>Rachael MacFarlane</actor>
+      <actor>Dee Bradley Baker</actor>
+    </credits>
+    <date>2009</date>
+    <episode-num system="onscreen">S6 E6</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181128060000 -0200" stop="20181128063000 -0200" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181128063000 -0200" stop="20181128070000 -0200" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181128070000 -0200" stop="20181128073000 -0200" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181128073000 -0200" stop="20181128080000 -0200" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181128080000 -0200" stop="20181128090000 -0200" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181128090000 -0200" stop="20181128104000 -0200" channel="FX">
+    <title lang="pt">Equilibrium</title>
+    <desc lang="pt">Num futuro apocalíptico, os governantes decidem acabar com as emoções da humanidade, com uma nova droga, mas um guardião decide derrubar o regime(n)</desc>
+    <credits>
+      <director>Kurt Wimmer</director>
+      <actor>Dominic Purcell</actor>
+      <actor>Christian Bale</actor>
+      <actor>Sean Bean</actor>
+      <actor>Christian Kahrmann</actor>
+      <actor>John Keogh</actor>
+      <actor>Sean Pertwee</actor>
+    </credits>
+    <date>2002</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181128104000 -0200" stop="20181128110500 -0200" channel="FX">
+    <title lang="pt">American Dad</title>
+    <desc lang="pt">Roger é obrigado a vender seu querido bar do sótão para uma cadeia de restaurantes depois de sofrer um ataque do coração, e uma nova e sensual vizinha promete tirar a virgindade de Steve e de seus amigos em troca de trabalho(n)</desc>
+    <credits>
+      <director>Josue Cervantes</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Scott Grimes</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S11 E2</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181128110500 -0200" stop="20181128113000 -0200" channel="FX">
+    <title lang="pt">American Dad</title>
+    <desc lang="pt">Roger e Francine encontram um alien na floresta, e Roger tem um relacionamento de uma noite com ela antes de se irritar com seus trejeitos. Ele tenta se livrar dela chamando a CIA, mas em seguida percebe que não pode fazer isso(n)</desc>
+    <credits>
+      <director>Chris Bennett</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Scott Grimes</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S11 E3</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181128113000 -0200" stop="20181128120000 -0200" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Peter é forçado a voltar para a terceira série e tentar se qualificar para uma promoção no trabalho. Enquanto isso Brian abre um bar com Frank Sinatra Jr e contrata Stewie para torná-lo um lugar badalado(n)</desc>
+    <credits>
+      <director>Jerry Langford</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Alex Borstein</actor>
+      <actor>Seth Green</actor>
+    </credits>
+    <episode-num system="onscreen">S8 E6</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181128120000 -0200" stop="20181128122500 -0200" channel="FX">
+    <title lang="pt">Bob's Burgers</title>
+    <desc lang="pt">Louise é colocada em uma situação difícil quando deve defender um de seus maiores inimigos em Wagstaff durante um julgamento simulado(n)</desc>
+    <credits>
+      <director>Chris Song</director>
+      <actor>Vozes de H. Jon Benjamin</actor>
+      <actor>Dan Mintz</actor>
+      <actor>Eugene Mirman</actor>
+      <actor>John Roberts</actor>
+      <actor>Kristen Schaal</actor>
+      <actor>Andy Kindler</actor>
+      <actor>Larry Murphy</actor>
+      <actor>Melissa Bardin Galsky</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S7 E11</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181128122500 -0200" stop="20181128142500 -0200" channel="FX">
+    <title lang="pt">De Volta para o Futuro</title>
+    <desc lang="pt">Adolescente entra na máquina do tempo de um cientista louco e volta aos anos 50. Produção de Steven Spielberg(n)</desc>
+    <credits>
+      <director>Robert Zemeckis</director>
+      <actor>Michael J. Fox</actor>
+      <actor>Christopher Lloyd</actor>
+      <actor>Lea Thompson</actor>
+      <actor>Crispin Glover</actor>
+      <actor>Marc McClure</actor>
+      <actor>Claudia Wells</actor>
+      <actor>Wendie Jo Sperber</actor>
+      <actor>Billy Zane,Frances Lee McCain</actor>
+    </credits>
+    <date>1985</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181128142500 -0200" stop="20181128161000 -0200" channel="FX">
+    <title lang="pt">Crocodilo Dundee</title>
+    <desc lang="pt">Dundee conquista a bela e rica jornalista, Sue. Ela o convence a deixar seus bichos selvagens na Austrália para viver com ela na agitada metrópole de NY. Para ele, um desafio mais perigoso que mordida de crocodilo(n)</desc>
+    <credits>
+      <director>Peter Faiman</director>
+      <actor>Paul Hogan</actor>
+      <actor>John Meillon</actor>
+      <actor>Linda Kozlowski</actor>
+      <actor>David Gulpilil</actor>
+      <actor>Ritchie Singer</actor>
+      <actor>Steve Rackman</actor>
+      <actor>Graham 'Grace' Walker</actor>
+      <actor>Brett Hogan</actor>
+    </credits>
+    <date>1986</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181128161000 -0200" stop="20181128181500 -0200" channel="FX">
+    <title lang="pt">Indiana Jones e o Templo da Perdição</title>
+    <desc lang="pt">Indiana Jones encontra uma tribo primitiva que lhe dará uma nova missão: resgatar as pedras sagradas que foram roubadas por um grupo de fanáticos(n)</desc>
+    <credits>
+      <director>Steven Spielberg</director>
+      <actor>Harrison Ford</actor>
+      <actor>Kate Capshaw</actor>
+      <actor>Jonathan Ke Quan</actor>
+      <actor>Amrish Puri</actor>
+      <actor>Roshan Seth</actor>
+      <actor>Philip Stone</actor>
+      <actor>Roy Chiao</actor>
+      <actor>David Yip</actor>
+      <actor>Ric Young</actor>
+      <actor>Chua Kah Joo</actor>
+      <actor>Rex Ngui</actor>
+      <actor>Philip Tan</actor>
+      <actor>Dan Aykroyd</actor>
+    </credits>
+    <date>1984</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181128181500 -0200" stop="20181128194500 -0200" channel="FX">
+    <title lang="pt">Todo Mundo em Pânico</title>
+    <desc lang="pt">Seis amigos atropelam e matam um homem numa rodovia. Mas o que poderia ser uma tragédia transforma-se numa comédia de terror, cheia de sustos(n)</desc>
+    <credits>
+      <director>Keenen Ivory Wayans</director>
+      <actor>Shannon Elizabeth</actor>
+      <actor>Regina Hall</actor>
+      <actor>Lochlyn Munro</actor>
+      <actor>Jon Abrahams</actor>
+      <actor>Marlon Wayans</actor>
+      <actor>Kurt Fuller</actor>
+      <actor>Carmen Electra</actor>
+    </credits>
+    <date>2000</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181128194500 -0200" stop="20181128213000 -0200" channel="FX">
+    <title lang="pt">Gente Grande</title>
+    <desc lang="pt">Trinta anos após a formatura do colégio, cinco amigos se reencontram para passar um fim de semana juntos. Com suas mulheres e filhos, eles comemoram o feriado de 4 de Julho em uma casa no lago, para celebrar os anos de juventude(n)</desc>
+    <credits>
+      <director>Dennis Dugan</director>
+      <actor>Adam Sandler</actor>
+      <actor>Kevin James</actor>
+      <actor>Chris Rock</actor>
+      <actor>David Spade</actor>
+      <actor>Rob Schneider</actor>
+      <actor>Salma Hayek</actor>
+      <actor>Maria Bello</actor>
+      <actor>Maya Rudolph</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181128213000 -0200" stop="20181128231500 -0200" channel="FX">
+    <title lang="pt">Os Caça-Noivas</title>
+    <desc lang="pt">Os irmãos Mike e Dave tem fama de arruinarem as festas da família. Sabendo disso, sua irmã, que está de casamento marcado, decide que eles só irão ao casório se encontrarem parceiras que os controlem(n)</desc>
+    <credits>
+      <director>Jake Szymanski</director>
+      <actor>Zac Efron</actor>
+      <actor>Adam Devine</actor>
+      <actor>Anna Kendrick</actor>
+      <actor>Aubrey Plaza</actor>
+      <actor>Stephen Root</actor>
+      <actor>Stephanie Faracy</actor>
+      <actor>Sugar Lyn Beard</actor>
+      <actor>Sam Richardson</actor>
+      <actor>Alice Wetterlund</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181128231500 -0200" stop="20181129005000 -0200" channel="FX">
+    <title lang="pt">Um Tira da Pesada 3</title>
+    <desc lang="pt">Seguindo pistas de crime, Axel volta à ensolarada Califórnia e vai parar num parque de diversões que serve de fachada para rede de bandidos(n)</desc>
+    <credits>
+      <director>John Landis</director>
+      <actor>Eddie Murphy</actor>
+      <actor>Judge Reinhold</actor>
+      <actor>Jon tenney</actor>
+      <actor>Joey Travolta</actor>
+      <actor>Eugene Collier</actor>
+      <actor>Jimmy Ortega</actor>
+      <actor>Ray Lykins</actor>
+      <actor>Rick Avery</actor>
+      <actor>Louis Lombardi</actor>
+      <actor>Lindsey Ginter</actor>
+      <actor>Timothy Carhart</actor>
+    </credits>
+    <date>1994</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181129005000 -0200" stop="20181129011500 -0200" channel="FX">
+    <title lang="pt">American Dad</title>
+    <desc lang="pt">Roger vai morar com Greg e Terry(n)</desc>
+    <credits>
+      <director>Joe Daniello</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Scott Grimes</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S11 E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181129011500 -0200" stop="20181129014000 -0200" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Ao perceber que Brian pode estar ficando velho, Peter arruma um cachorro mais novo e mais feliz. O cão passa a ser adorado pelos Griffins, o que leva Brian a ir embora(n)</desc>
+    <credits>
+      <director>Dominic Bianchi</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Alex Borstein</actor>
+      <actor>Seth Green</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Mike Henry</actor>
+      <actor>Candace Marie</actor>
+      <actor>Danny Smith</actor>
+    </credits>
+    <date>2009</date>
+    <episode-num system="onscreen">S8 E5</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181129014000 -0200" stop="20181129021000 -0200" channel="FX">
+    <title lang="pt">Bob's Burgers</title>
+    <desc lang="pt">Quando Tina fica sabendo que o aquário está em perigo e pode fechar, os irmãos Belchers armam um plano para que continue funcionando(n)</desc>
+    <credits>
+      <director>Chris Song</director>
+      <actor>Vozes de H. Jon Benjamin</actor>
+      <actor>Dan Mintz</actor>
+      <actor>Eugene Mirman</actor>
+      <actor>John Roberts</actor>
+      <actor>Kristen Schaal</actor>
+      <actor>Andy Kindler</actor>
+      <actor>Larry Murphy</actor>
+      <actor>Melissa Bardin Galsky</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S7 E14</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181129021000 -0200" stop="20181129034000 -0200" channel="FX">
+    <title lang="pt">Kung Fu Futebol Clube</title>
+    <desc lang="pt">Com muita ação, efeitos especiais e gargalhadas, Kung Fu Futebol Clube é uma comédia que conta a história de um grupo que tenta a qualquer custo ganhar uma competição(n)</desc>
+    <credits>
+      <director>Stephen Chow</director>
+      <actor>Stephen Chow</actor>
+      <actor>Wei Zhao</actor>
+      <actor>Yin Tse</actor>
+      <actor>Man Tat Ng</actor>
+      <actor>Law Kar-Ying</actor>
+      <actor>\tCecilia Cheung</actor>
+      <actor>Chi Ling Chiu</actor>
+    </credits>
+    <date>2001</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181129034000 -0200" stop="20181129053500 -0200" channel="FX">
+    <title lang="pt">Procura-se Amy</title>
+    <desc lang="pt">Holden e Banky são dois melhores amigos. Tudo vai bem até que Holden se apaixona por Alyssa, uma lésbica, e ela retribui seu afeto, fazendo com que os três tenham que lidar com o ciúme de Banky e o passado de Alyssa(n)</desc>
+    <credits>
+      <director>Kevin Smith</director>
+      <actor>Ben Affleck</actor>
+      <actor>Joey Lauren Adams</actor>
+      <actor>Jason Lee</actor>
+      <actor>Kevin Smith</actor>
+      <actor>Jason Mewes</actor>
+    </credits>
+    <date>1997</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181129053500 -0200" stop="20181129060000 -0200" channel="FX">
+    <title lang="pt">American Dad</title>
+    <desc lang="pt">Quando Stan e Francine estão prestes a completar 20 anos de casados, ela abandona seu regime com o propósito de descobrir se o amor de Stan por ela vai além da aparência física(n)</desc>
+    <credits>
+      <director>John Aoshima</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Scott Grimes</actor>
+      <actor>Rachael MacFarlane</actor>
+      <actor>Dee Bradley Baker</actor>
+    </credits>
+    <date>2009</date>
+    <episode-num system="onscreen">S6 E6</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181129060000 -0200" stop="20181129063000 -0200" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181129063000 -0200" stop="20181129070000 -0200" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181129070000 -0200" stop="20181129073000 -0200" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181129073000 -0200" stop="20181129080000 -0200" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181129080000 -0200" stop="20181129090000 -0200" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181129090000 -0200" stop="20181129104000 -0200" channel="FX">
+    <title lang="pt">Equilibrium</title>
+    <desc lang="pt">Num futuro apocalíptico, os governantes decidem acabar com as emoções da humanidade, com uma nova droga, mas um guardião decide derrubar o regime(n)</desc>
+    <credits>
+      <director>Kurt Wimmer</director>
+      <actor>Dominic Purcell</actor>
+      <actor>Christian Bale</actor>
+      <actor>Sean Bean</actor>
+      <actor>Christian Kahrmann</actor>
+      <actor>John Keogh</actor>
+      <actor>Sean Pertwee</actor>
+    </credits>
+    <date>2002</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181129104000 -0200" stop="20181129110500 -0200" channel="FX">
+    <title lang="pt">American Dad</title>
+    <desc lang="pt">Roger é obrigado a vender seu querido bar do sótão para uma cadeia de restaurantes depois de sofrer um ataque do coração, e uma nova e sensual vizinha promete tirar a virgindade de Steve e de seus amigos em troca de trabalho(n)</desc>
+    <credits>
+      <director>Josue Cervantes</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Scott Grimes</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S11 E2</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181129110500 -0200" stop="20181129113000 -0200" channel="FX">
+    <title lang="pt">American Dad</title>
+    <desc lang="pt">Roger e Francine encontram um alien na floresta, e Roger tem um relacionamento de uma noite com ela antes de se irritar com seus trejeitos. Ele tenta se livrar dela chamando a CIA, mas em seguida percebe que não pode fazer isso(n)</desc>
+    <credits>
+      <director>Chris Bennett</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Scott Grimes</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S11 E3</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181129113000 -0200" stop="20181129120000 -0200" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Peter é forçado a voltar para a terceira série e tentar se qualificar para uma promoção no trabalho. Enquanto isso Brian abre um bar com Frank Sinatra Jr e contrata Stewie para torná-lo um lugar badalado(n)</desc>
+    <credits>
+      <director>Jerry Langford</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Alex Borstein</actor>
+      <actor>Seth Green</actor>
+    </credits>
+    <episode-num system="onscreen">S8 E6</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181129120000 -0200" stop="20181129122500 -0200" channel="FX">
+    <title lang="pt">Bob's Burgers</title>
+    <desc lang="pt">Louise é colocada em uma situação difícil quando deve defender um de seus maiores inimigos em Wagstaff durante um julgamento simulado(n)</desc>
+    <credits>
+      <director>Chris Song</director>
+      <actor>Vozes de H. Jon Benjamin</actor>
+      <actor>Dan Mintz</actor>
+      <actor>Eugene Mirman</actor>
+      <actor>John Roberts</actor>
+      <actor>Kristen Schaal</actor>
+      <actor>Andy Kindler</actor>
+      <actor>Larry Murphy</actor>
+      <actor>Melissa Bardin Galsky</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S7 E11</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181129122500 -0200" stop="20181129142500 -0200" channel="FX">
+    <title lang="pt">De Volta para o Futuro</title>
+    <desc lang="pt">Adolescente entra na máquina do tempo de um cientista louco e volta aos anos 50. Produção de Steven Spielberg(n)</desc>
+    <credits>
+      <director>Robert Zemeckis</director>
+      <actor>Michael J. Fox</actor>
+      <actor>Christopher Lloyd</actor>
+      <actor>Lea Thompson</actor>
+      <actor>Crispin Glover</actor>
+      <actor>Marc McClure</actor>
+      <actor>Claudia Wells</actor>
+      <actor>Wendie Jo Sperber</actor>
+      <actor>Billy Zane,Frances Lee McCain</actor>
+    </credits>
+    <date>1985</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181129142500 -0200" stop="20181129161000 -0200" channel="FX">
+    <title lang="pt">Crocodilo Dundee</title>
+    <desc lang="pt">Dundee conquista a bela e rica jornalista, Sue. Ela o convence a deixar seus bichos selvagens na Austrália para viver com ela na agitada metrópole de NY. Para ele, um desafio mais perigoso que mordida de crocodilo(n)</desc>
+    <credits>
+      <director>Peter Faiman</director>
+      <actor>Paul Hogan</actor>
+      <actor>John Meillon</actor>
+      <actor>Linda Kozlowski</actor>
+      <actor>David Gulpilil</actor>
+      <actor>Ritchie Singer</actor>
+      <actor>Steve Rackman</actor>
+      <actor>Graham 'Grace' Walker</actor>
+      <actor>Brett Hogan</actor>
+    </credits>
+    <date>1986</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181129161000 -0200" stop="20181129181500 -0200" channel="FX">
+    <title lang="pt">Indiana Jones e o Templo da Perdição</title>
+    <desc lang="pt">Indiana Jones encontra uma tribo primitiva que lhe dará uma nova missão: resgatar as pedras sagradas que foram roubadas por um grupo de fanáticos(n)</desc>
+    <credits>
+      <director>Steven Spielberg</director>
+      <actor>Harrison Ford</actor>
+      <actor>Kate Capshaw</actor>
+      <actor>Jonathan Ke Quan</actor>
+      <actor>Amrish Puri</actor>
+      <actor>Roshan Seth</actor>
+      <actor>Philip Stone</actor>
+      <actor>Roy Chiao</actor>
+      <actor>David Yip</actor>
+      <actor>Ric Young</actor>
+      <actor>Chua Kah Joo</actor>
+      <actor>Rex Ngui</actor>
+      <actor>Philip Tan</actor>
+      <actor>Dan Aykroyd</actor>
+    </credits>
+    <date>1984</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181129181500 -0200" stop="20181129194500 -0200" channel="FX">
+    <title lang="pt">Todo Mundo em Pânico</title>
+    <desc lang="pt">Seis amigos atropelam e matam um homem numa rodovia. Mas o que poderia ser uma tragédia transforma-se numa comédia de terror, cheia de sustos(n)</desc>
+    <credits>
+      <director>Keenen Ivory Wayans</director>
+      <actor>Shannon Elizabeth</actor>
+      <actor>Regina Hall</actor>
+      <actor>Lochlyn Munro</actor>
+      <actor>Jon Abrahams</actor>
+      <actor>Marlon Wayans</actor>
+      <actor>Kurt Fuller</actor>
+      <actor>Carmen Electra</actor>
+    </credits>
+    <date>2000</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181129194500 -0200" stop="20181129213000 -0200" channel="FX">
+    <title lang="pt">Gente Grande</title>
+    <desc lang="pt">Trinta anos após a formatura do colégio, cinco amigos se reencontram para passar um fim de semana juntos. Com suas mulheres e filhos, eles comemoram o feriado de 4 de Julho em uma casa no lago, para celebrar os anos de juventude(n)</desc>
+    <credits>
+      <director>Dennis Dugan</director>
+      <actor>Adam Sandler</actor>
+      <actor>Kevin James</actor>
+      <actor>Chris Rock</actor>
+      <actor>David Spade</actor>
+      <actor>Rob Schneider</actor>
+      <actor>Salma Hayek</actor>
+      <actor>Maria Bello</actor>
+      <actor>Maya Rudolph</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181129213000 -0200" stop="20181129231500 -0200" channel="FX">
+    <title lang="pt">Os Caça-Noivas</title>
+    <desc lang="pt">Os irmãos Mike e Dave tem fama de arruinarem as festas da família. Sabendo disso, sua irmã, que está de casamento marcado, decide que eles só irão ao casório se encontrarem parceiras que os controlem(n)</desc>
+    <credits>
+      <director>Jake Szymanski</director>
+      <actor>Zac Efron</actor>
+      <actor>Adam Devine</actor>
+      <actor>Anna Kendrick</actor>
+      <actor>Aubrey Plaza</actor>
+      <actor>Stephen Root</actor>
+      <actor>Stephanie Faracy</actor>
+      <actor>Sugar Lyn Beard</actor>
+      <actor>Sam Richardson</actor>
+      <actor>Alice Wetterlund</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181129231500 -0200" stop="20181130010500 -0200" channel="FX">
+    <title lang="pt">Um Tira da Pesada 3</title>
+    <desc lang="pt">Seguindo pistas de crime, Axel volta à ensolarada Califórnia e vai parar num parque de diversões que serve de fachada para rede de bandidos(n)</desc>
+    <credits>
+      <director>John Landis</director>
+      <actor>Eddie Murphy</actor>
+      <actor>Judge Reinhold</actor>
+      <actor>Jon tenney</actor>
+      <actor>Joey Travolta</actor>
+      <actor>Eugene Collier</actor>
+      <actor>Jimmy Ortega</actor>
+      <actor>Ray Lykins</actor>
+      <actor>Rick Avery</actor>
+      <actor>Louis Lombardi</actor>
+      <actor>Lindsey Ginter</actor>
+      <actor>Timothy Carhart</actor>
+    </credits>
+    <date>1994</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181130010500 -0200" stop="20181130013000 -0200" channel="FX">
+    <title lang="pt">American Dad</title>
+    <desc lang="pt">Hayley está cansada das pessoas ignorando seu ativismo, então ela pinta seu cabelo de loiro para conseguir mais atenção(n)</desc>
+    <credits>
+      <director>Rodney Clouden</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Scott Grimes</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S11 E4</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181130013000 -0200" stop="20181130020000 -0200" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Brian conhece a garota dos seus sonhos, Carolyn. No entanto, Cleveland parte na frente e conquista Carolyn. Desesperado para tê-la de volta, Brian precisa fazer tudo o que puder, ainda que isto inclua a ex-esposa de Cleveland(n)</desc>
+    <credits>
+      <director>Cyndi Tang-Loveland</director>
+      <actor>Vozes de Alex Borstein</actor>
+      <actor>Seth Green</actor>
+      <actor>Seth MacFarlane</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Mike Henry</actor>
+      <actor>Alexandra Breckenridge</actor>
+    </credits>
+    <date>2009</date>
+    <episode-num system="onscreen">S8 E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181130020000 -0200" stop="20181130022500 -0200" channel="FX">
+    <title lang="pt">Bob's Burgers</title>
+    <desc lang="pt">Quando Tina é recrutada pela equipe de debates, ela encontra sucesso e um relacionamento inesperado(n)</desc>
+    <credits>
+      <director>Chris Song</director>
+      <actor>Vozes de H. Jon Benjamin</actor>
+      <actor>Dan Mintz</actor>
+      <actor>Eugene Mirman</actor>
+      <actor>John Roberts</actor>
+      <actor>Kristen Schaal</actor>
+      <actor>Andy Kindler</actor>
+      <actor>Larry Murphy</actor>
+      <actor>Melissa Bardin Galsky</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S7 E15</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181130022500 -0200" stop="20181130043500 -0200" channel="FX">
+    <title lang="pt">O Segredo dos Seus Olhos</title>
+    <desc lang="pt">Após se aposentar do cargo de oficial de justiça de um tribunal penal, Benjamin Esposito se dedica a escrever um livro(n)</desc>
+    <credits>
+      <director>Juan José Campanella</director>
+      <actor>Ricardo Darín</actor>
+      <actor>Soledad Villamil</actor>
+      <actor>Pablo Rago</actor>
+      <actor>Javier Godino</actor>
+      <actor>Guillermo Francella</actor>
+      <actor>Carla Quevedo</actor>
+      <actor>Bárbara Palladino</actor>
+      <actor>Rudy Romano</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181130043500 -0200" stop="20181130060000 -0200" channel="FX">
+    <title lang="pt">Espião por Acidente</title>
+    <desc lang="pt">Buck Yuen impede assalto no shopping onde trabalha. Não demora muito, e ele começa a ser perseguido e terá de usar seus talentos em artes marciais para ficar vivo(n)</desc>
+    <credits>
+      <director>Teddy Chan</director>
+      <actor>Jackie Chan</actor>
+      <actor>Eric Tsang</actor>
+      <actor>Vivian Hsu</actor>
+      <actor>Kim Min-jeong</actor>
+      <actor>Wu Hsing-kuo</actor>
+      <actor>Alfred Cheung</actor>
+      <actor>Anthony Rene Jones</actor>
+      <actor>Glory Simon</actor>
+      <actor>Bradley James Allan</actor>
+      <actor>Tat-Ming Cheung</actor>
+    </credits>
+    <date>2001</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181130060000 -0200" stop="20181130063000 -0200" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181130063000 -0200" stop="20181130070000 -0200" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181130070000 -0200" stop="20181130073000 -0200" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181130073000 -0200" stop="20181130080000 -0200" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181130080000 -0200" stop="20181130090000 -0200" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181130090000 -0200" stop="20181130113000 -0200" channel="FX">
+    <title lang="pt">Robin Hood: O Príncipe dos Ladrões</title>
+    <desc lang="pt">Na Inglaterra do século XIV, Robin Hood lidera camponeses contra um déspota que se aproveita da ausência do rei, Ricardo Coração de Leão, para tomar o poder(n)</desc>
+    <credits>
+      <director>Kevin Reynolds</director>
+      <actor>Kevin Costner</actor>
+      <actor>Morgan Freeman</actor>
+      <actor>Mary Elizabeth Mastrantonio</actor>
+      <actor>Michael McShane</actor>
+      <actor>Nick Brimble</actor>
+      <actor>Alan Rickman</actor>
+      <actor>Michael Wincott</actor>
+      <actor>Harold Innocent</actor>
+    </credits>
+    <date>1991</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181130113000 -0200" stop="20181130115500 -0200" channel="FX">
+    <title lang="pt">American Dad</title>
+    <desc lang="pt">Stan e seus colegas de trabalho da CIA vão para a Tailândia para explodir um esconderijo de armas, mas Bullock já enviou um drone para fazer o trabalho(n)</desc>
+    <credits>
+      <director>Jansen Yee</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Scott Grimes</actor>
+      <actor>Rachael MacFarlane</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Alex Cuthbertson</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S11 E5</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181130115500 -0200" stop="20181130122000 -0200" channel="FX">
+    <title lang="pt">American Dad</title>
+    <desc lang="pt">Quando Snot é natural no karate, Steve faz o seu melhor para salvar seu amigo de ser um garoto mau. Enquanto isso, Klaus desenvolve um odor horrível e é forçado a ser um pet do lado de fora de casa(n)</desc>
+    <credits>
+      <director>Jennifer Graves</director>
+      <director>Tim Parsons</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Scott Grimes</actor>
+      <actor>Rachael MacFarlane</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Joe Buck</actor>
+      <actor>Curtis Armstrong</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S11 E6</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181130122000 -0200" stop="20181130125000 -0200" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Quando Peter fica obcecado com(n)</desc>
+    <credits>
+      <director>Mike Kim</director>
+      <actor>Vozes de Alex Borstein</actor>
+      <actor>Seth Green</actor>
+      <actor>Seth MacFarlane</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Mike Henry</actor>
+      <actor>John G. Brennan</actor>
+    </credits>
+    <date>2008</date>
+    <episode-num system="onscreen">S8 E2</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181130125000 -0200" stop="20181130132000 -0200" channel="FX">
+    <title lang="pt">Bob's Burgers</title>
+    <desc lang="pt">A caça anual aos Ovos da Páscoa sempre revela o lado competitivo de Bob e Linda, mas desta vez a brincadeira sai mal(n)</desc>
+    <credits>
+      <director>Chris Song</director>
+      <actor>Vozes de H. Jon Benjamin</actor>
+      <actor>Dan Mintz</actor>
+      <actor>Eugene Mirman</actor>
+      <actor>John Roberts</actor>
+      <actor>Kristen Schaal</actor>
+      <actor>Andy Kindler</actor>
+      <actor>Larry Murphy</actor>
+      <actor>Melissa Bardin Galsky</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S7 E16</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181130132000 -0200" stop="20181130145500 -0200" channel="FX">
+    <title lang="pt">S.W.A.T. - Comando Especial 2</title>
+    <desc lang="pt">Paul, considerado o melhor policial de Los Angeles, é transferido para a cidade de Detroit com uma missão: treinar a melhor equipe da SWAT para tentar deter um assassino que está sendo protegido por agentes do governo(n)</desc>
+    <credits>
+      <director>Benny Boom</director>
+      <actor>Gabriel Macht</actor>
+      <actor>Giancarlo Esposito</actor>
+      <actor>Kristanna Loken</actor>
+      <actor>Robert Patrick</actor>
+      <actor>Carly Pope</actor>
+      <actor>Nicholas Gonzalez</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181130145500 -0200" stop="20181130170000 -0200" channel="FX">
+    <title lang="pt">Colateral</title>
+    <desc lang="pt">Tom Cruise é um matador de aluguel que seqüestra o taxista Jamie Foxx durante uma noite em que vai cometer uma série de assassinatos. Enquanto o tempo passa e o serviço vai sendo feito, o motorista tenta sobreviver(n)</desc>
+    <credits>
+      <director>Michael Mann</director>
+      <actor>Tom Cruise</actor>
+      <actor>Jamie Foxx</actor>
+      <actor>Jada Pinkett Smith</actor>
+      <actor>Mark Ruffalo</actor>
+      <actor>Peter Berg</actor>
+      <actor>Bruce McGill</actor>
+      <actor>Irma P. Hall</actor>
+      <actor>Barry Shabaka Henley</actor>
+      <actor>Richard T. Jones</actor>
+      <actor>Klea Scott</actor>
+      <actor>Bodhi Elfman</actor>
+      <actor>Debie Mazar</actor>
+      <actor>Javier Bardem</actor>
+      <actor>Emilio Rivera</actor>
+      <actor>Jamie McBride</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181130170000 -0200" stop="20181130190000 -0200" channel="FX">
+    <title lang="pt">Em Nome da Lei</title>
+    <desc lang="pt">Vitor é um juiz federal recém-chegado na cidade de Fronteira, disposto a desmontar um esquema de contrabando e tráfico de drogas na região(n)</desc>
+    <credits>
+      <director>Sergio Rezende</director>
+      <actor>Mateus Solano</actor>
+      <actor>Paolla Oliveira</actor>
+      <actor>Chico Díaz</actor>
+      <actor>Eduardo Galvão</actor>
+      <actor>Roberto Berindelli</actor>
+      <actor>Emilio Dantas</actor>
+      <actor>Silvio Guindane</actor>
+      <actor>Juliana Lohmann</actor>
+      <actor>Gustavo Nader</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181130190000 -0200" stop="20181130213000 -0200" channel="FX">
+    <title lang="pt">Homem-Aranha 3</title>
+    <desc lang="pt">O sucesso como herói faz com que Peter Parker adquira uma confiança exagerada, deixando de lado as pessoas que se importam com ele. Até que precisa enfrentar o Homem-Areia e lidar com um estranho uniforme negro, que passa a usar(n)</desc>
+    <credits>
+      <director>Sam Raimi</director>
+      <actor>Tobey Maguire</actor>
+      <actor>Kirsten Dunst</actor>
+      <actor>James Franco</actor>
+      <actor>Thomas Haden Church</actor>
+      <actor>Topher Grace</actor>
+      <actor>Bryce Dallas Howard</actor>
+      <actor>Rosemary Harris</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181130213000 -0200" stop="20181130231000 -0200" channel="FX">
+    <title lang="pt">Quarteto Fantástico e o Surfista Prateado</title>
+    <desc lang="pt">Nesta nova aventura, o Quarteto Fantástico têm a missão de enfrentar o Surfista Prateado, um misterioso inimigo que vem de outro planeta. O grupo precisa descobrir uma forma de detê-lo(n)</desc>
+    <credits>
+      <director>Tim Story</director>
+      <actor>Ioan Gruffudd</actor>
+      <actor>Jessica Alba</actor>
+      <actor>Chris Evans</actor>
+      <actor>Michael Chiklis</actor>
+      <actor>Julian McMahon</actor>
+      <actor>Kerry Washington</actor>
+      <actor>Andre Braugher</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20181130231000 -0200" stop="20181201010500 -0200" channel="FX">
+    <title lang="pt">Elysium</title>
+    <desc lang="pt">No ano de 2154, a população da Terra está dividida em duas classes: os ricos, que vivem na estação espacial Elysium, e o resto, que vive na Terra arruinada. Mas um homem pode ser a esperança para trazer igualdade(n)</desc>
+    <credits>
+      <director>Neill Blomkamp</director>
+      <actor>Matt Damon</actor>
+      <actor>Jodie Foster</actor>
+      <actor>Sharlto Copley</actor>
+      <actor>Alice Braga</actor>
+      <actor>Diego Luna</actor>
+      <actor>Wagner Moura</actor>
+      <actor>William Fichtner</actor>
+      <actor>Maxwell Perry Cotton</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181201010500 -0200" stop="20181201013000 -0200" channel="FX">
+    <title lang="pt">American Dad</title>
+    <desc lang="pt">Hayley está cansada das pessoas ignorando seu ativismo, então ela pinta seu cabelo de loiro para conseguir mais atenção(n)</desc>
+    <credits>
+      <director>Rodney Clouden</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Scott Grimes</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S11 E4</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181201013000 -0200" stop="20181201020000 -0200" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Brian conhece a garota dos seus sonhos, Carolyn. No entanto, Cleveland parte na frente e conquista Carolyn. Desesperado para tê-la de volta, Brian precisa fazer tudo o que puder, ainda que isto inclua a ex-esposa de Cleveland(n)</desc>
+    <credits>
+      <director>Cyndi Tang-Loveland</director>
+      <actor>Vozes de Alex Borstein</actor>
+      <actor>Seth Green</actor>
+      <actor>Seth MacFarlane</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Mike Henry</actor>
+      <actor>Alexandra Breckenridge</actor>
+    </credits>
+    <date>2009</date>
+    <episode-num system="onscreen">S8 E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181201020000 -0200" stop="20181201022500 -0200" channel="FX">
+    <title lang="pt">Bob's Burgers</title>
+    <desc lang="pt">Quando Tina é recrutada pela equipe de debates, ela encontra sucesso e um relacionamento inesperado(n)</desc>
+    <credits>
+      <director>Chris Song</director>
+      <actor>Vozes de H. Jon Benjamin</actor>
+      <actor>Dan Mintz</actor>
+      <actor>Eugene Mirman</actor>
+      <actor>John Roberts</actor>
+      <actor>Kristen Schaal</actor>
+      <actor>Andy Kindler</actor>
+      <actor>Larry Murphy</actor>
+      <actor>Melissa Bardin Galsky</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S7 E15</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181201022500 -0200" stop="20181201043500 -0200" channel="FX">
+    <title lang="pt">O Segredo dos Seus Olhos</title>
+    <desc lang="pt">Após se aposentar do cargo de oficial de justiça de um tribunal penal, Benjamin Esposito se dedica a escrever um livro(n)</desc>
+    <credits>
+      <director>Juan José Campanella</director>
+      <actor>Ricardo Darín</actor>
+      <actor>Soledad Villamil</actor>
+      <actor>Pablo Rago</actor>
+      <actor>Javier Godino</actor>
+      <actor>Guillermo Francella</actor>
+      <actor>Carla Quevedo</actor>
+      <actor>Bárbara Palladino</actor>
+      <actor>Rudy Romano</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181201043500 -0200" stop="20181201060000 -0200" channel="FX">
+    <title lang="pt">Espião por Acidente</title>
+    <desc lang="pt">Buck Yuen impede assalto no shopping onde trabalha. Não demora muito, e ele começa a ser perseguido e terá de usar seus talentos em artes marciais para ficar vivo(n)</desc>
+    <credits>
+      <director>Teddy Chan</director>
+      <actor>Jackie Chan</actor>
+      <actor>Eric Tsang</actor>
+      <actor>Vivian Hsu</actor>
+      <actor>Kim Min-jeong</actor>
+      <actor>Wu Hsing-kuo</actor>
+      <actor>Alfred Cheung</actor>
+      <actor>Anthony Rene Jones</actor>
+      <actor>Glory Simon</actor>
+      <actor>Bradley James Allan</actor>
+      <actor>Tat-Ming Cheung</actor>
+    </credits>
+    <date>2001</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181201060000 -0200" stop="20181201063000 -0200" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181201063000 -0200" stop="20181201070000 -0200" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181201070000 -0200" stop="20181201073000 -0200" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181201073000 -0200" stop="20181201080000 -0200" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181201080000 -0200" stop="20181201090000 -0200" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181201090000 -0200" stop="20181201113000 -0200" channel="FX">
+    <title lang="pt">Robin Hood: O Príncipe dos Ladrões</title>
+    <desc lang="pt">Na Inglaterra do século XIV, Robin Hood lidera camponeses contra um déspota que se aproveita da ausência do rei, Ricardo Coração de Leão, para tomar o poder(n)</desc>
+    <credits>
+      <director>Kevin Reynolds</director>
+      <actor>Kevin Costner</actor>
+      <actor>Morgan Freeman</actor>
+      <actor>Mary Elizabeth Mastrantonio</actor>
+      <actor>Michael McShane</actor>
+      <actor>Nick Brimble</actor>
+      <actor>Alan Rickman</actor>
+      <actor>Michael Wincott</actor>
+      <actor>Harold Innocent</actor>
+    </credits>
+    <date>1991</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181201113000 -0200" stop="20181201115500 -0200" channel="FX">
+    <title lang="pt">American Dad</title>
+    <desc lang="pt">Stan e seus colegas de trabalho da CIA vão para a Tailândia para explodir um esconderijo de armas, mas Bullock já enviou um drone para fazer o trabalho(n)</desc>
+    <credits>
+      <director>Jansen Yee</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Scott Grimes</actor>
+      <actor>Rachael MacFarlane</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Alex Cuthbertson</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S11 E5</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181201115500 -0200" stop="20181201122000 -0200" channel="FX">
+    <title lang="pt">American Dad</title>
+    <desc lang="pt">Quando Snot é natural no karate, Steve faz o seu melhor para salvar seu amigo de ser um garoto mau. Enquanto isso, Klaus desenvolve um odor horrível e é forçado a ser um pet do lado de fora de casa(n)</desc>
+    <credits>
+      <director>Jennifer Graves</director>
+      <director>Tim Parsons</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Scott Grimes</actor>
+      <actor>Rachael MacFarlane</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Joe Buck</actor>
+      <actor>Curtis Armstrong</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S11 E6</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181201122000 -0200" stop="20181201125000 -0200" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Quando Peter fica obcecado com(n)</desc>
+    <credits>
+      <director>Mike Kim</director>
+      <actor>Vozes de Alex Borstein</actor>
+      <actor>Seth Green</actor>
+      <actor>Seth MacFarlane</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Mike Henry</actor>
+      <actor>John G. Brennan</actor>
+    </credits>
+    <date>2008</date>
+    <episode-num system="onscreen">S8 E2</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181201125000 -0200" stop="20181201132000 -0200" channel="FX">
+    <title lang="pt">Bob's Burgers</title>
+    <desc lang="pt">A caça anual aos Ovos da Páscoa sempre revela o lado competitivo de Bob e Linda, mas desta vez a brincadeira sai mal(n)</desc>
+    <credits>
+      <director>Chris Song</director>
+      <actor>Vozes de H. Jon Benjamin</actor>
+      <actor>Dan Mintz</actor>
+      <actor>Eugene Mirman</actor>
+      <actor>John Roberts</actor>
+      <actor>Kristen Schaal</actor>
+      <actor>Andy Kindler</actor>
+      <actor>Larry Murphy</actor>
+      <actor>Melissa Bardin Galsky</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S7 E16</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181201132000 -0200" stop="20181201145500 -0200" channel="FX">
+    <title lang="pt">S.W.A.T. - Comando Especial 2</title>
+    <desc lang="pt">Paul, considerado o melhor policial de Los Angeles, é transferido para a cidade de Detroit com uma missão: treinar a melhor equipe da SWAT para tentar deter um assassino que está sendo protegido por agentes do governo(n)</desc>
+    <credits>
+      <director>Benny Boom</director>
+      <actor>Gabriel Macht</actor>
+      <actor>Giancarlo Esposito</actor>
+      <actor>Kristanna Loken</actor>
+      <actor>Robert Patrick</actor>
+      <actor>Carly Pope</actor>
+      <actor>Nicholas Gonzalez</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181201145500 -0200" stop="20181201170000 -0200" channel="FX">
+    <title lang="pt">Colateral</title>
+    <desc lang="pt">Tom Cruise é um matador de aluguel que seqüestra o taxista Jamie Foxx durante uma noite em que vai cometer uma série de assassinatos. Enquanto o tempo passa e o serviço vai sendo feito, o motorista tenta sobreviver(n)</desc>
+    <credits>
+      <director>Michael Mann</director>
+      <actor>Tom Cruise</actor>
+      <actor>Jamie Foxx</actor>
+      <actor>Jada Pinkett Smith</actor>
+      <actor>Mark Ruffalo</actor>
+      <actor>Peter Berg</actor>
+      <actor>Bruce McGill</actor>
+      <actor>Irma P. Hall</actor>
+      <actor>Barry Shabaka Henley</actor>
+      <actor>Richard T. Jones</actor>
+      <actor>Klea Scott</actor>
+      <actor>Bodhi Elfman</actor>
+      <actor>Debie Mazar</actor>
+      <actor>Javier Bardem</actor>
+      <actor>Emilio Rivera</actor>
+      <actor>Jamie McBride</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181201170000 -0200" stop="20181201190000 -0200" channel="FX">
+    <title lang="pt">Em Nome da Lei</title>
+    <desc lang="pt">Vitor é um juiz federal recém-chegado na cidade de Fronteira, disposto a desmontar um esquema de contrabando e tráfico de drogas na região(n)</desc>
+    <credits>
+      <director>Sergio Rezende</director>
+      <actor>Mateus Solano</actor>
+      <actor>Paolla Oliveira</actor>
+      <actor>Chico Díaz</actor>
+      <actor>Eduardo Galvão</actor>
+      <actor>Roberto Berindelli</actor>
+      <actor>Emilio Dantas</actor>
+      <actor>Silvio Guindane</actor>
+      <actor>Juliana Lohmann</actor>
+      <actor>Gustavo Nader</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181201190000 -0200" stop="20181201213000 -0200" channel="FX">
+    <title lang="pt">Homem-Aranha 3</title>
+    <desc lang="pt">O sucesso como herói faz com que Peter Parker adquira uma confiança exagerada, deixando de lado as pessoas que se importam com ele. Até que precisa enfrentar o Homem-Areia e lidar com um estranho uniforme negro, que passa a usar(n)</desc>
+    <credits>
+      <director>Sam Raimi</director>
+      <actor>Tobey Maguire</actor>
+      <actor>Kirsten Dunst</actor>
+      <actor>James Franco</actor>
+      <actor>Thomas Haden Church</actor>
+      <actor>Topher Grace</actor>
+      <actor>Bryce Dallas Howard</actor>
+      <actor>Rosemary Harris</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181201213000 -0200" stop="20181201231000 -0200" channel="FX">
+    <title lang="pt">Quarteto Fantástico e o Surfista Prateado</title>
+    <desc lang="pt">Nesta nova aventura, o Quarteto Fantástico têm a missão de enfrentar o Surfista Prateado, um misterioso inimigo que vem de outro planeta. O grupo precisa descobrir uma forma de detê-lo(n)</desc>
+    <credits>
+      <director>Tim Story</director>
+      <actor>Ioan Gruffudd</actor>
+      <actor>Jessica Alba</actor>
+      <actor>Chris Evans</actor>
+      <actor>Michael Chiklis</actor>
+      <actor>Julian McMahon</actor>
+      <actor>Kerry Washington</actor>
+      <actor>Andre Braugher</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20181201231000 -0200" stop="20181202010000 -0200" channel="FX">
+    <title lang="pt">Elysium</title>
+    <desc lang="pt">No ano de 2154, a população da Terra está dividida em duas classes: os ricos, que vivem na estação espacial Elysium, e o resto, que vive na Terra arruinada. Mas um homem pode ser a esperança para trazer igualdade(n)</desc>
+    <credits>
+      <director>Neill Blomkamp</director>
+      <actor>Matt Damon</actor>
+      <actor>Jodie Foster</actor>
+      <actor>Sharlto Copley</actor>
+      <actor>Alice Braga</actor>
+      <actor>Diego Luna</actor>
+      <actor>Wagner Moura</actor>
+      <actor>William Fichtner</actor>
+      <actor>Maxwell Perry Cotton</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181202010000 -0200" stop="20181202012500 -0200" channel="FX">
+    <title lang="pt">American Dad</title>
+    <desc lang="pt">Quando a CIA é forçada a fazer cortes, Stan é transferido para uma posição como um guarda de segurança. Enquanto isso, Roger abre uma hospedagem, a fim de aumentar a renda da família(n)</desc>
+    <credits>
+      <director>Pam Cooke</director>
+      <director>Valerie Fletcher</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Scott Grimes</actor>
+      <actor>Rachael MacFarlane</actor>
+      <actor>Dee Bradley Baker</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S11 E7</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181202012500 -0200" stop="20181202015500 -0200" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Mort Goldman, acidentalmente, entra em uma máquina do tempo e vai parar na Polônia de 1939, no meio da invasão nazista. Brian e Stewie o seguem até a Alemanha nazista numa tentativa de salvá-lo e trazê-lo de volta(n)</desc>
+    <credits>
+      <director>Greg Colton</director>
+      <actor>Vozes de Alex Borstein</actor>
+      <actor>Seth Green</actor>
+      <actor>Seth MacFarlane</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Mike Henry</actor>
+      <actor>John G. Brennan</actor>
+    </credits>
+    <date>2008</date>
+    <episode-num system="onscreen">S8 E3</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181202015500 -0200" stop="20181202022000 -0200" channel="FX">
+    <title lang="pt">Bob's Burgers</title>
+    <desc lang="pt">Bob recebe um fornecedor de carne que diz economizar dinheiro a seus clientes com cada ordem. No entanto, os Belchers estão envolvidos em uma investigação liderada por Hugo e Ron(n)</desc>
+    <credits>
+      <director>Chris Song</director>
+      <actor>Vozes de H. Jon Benjamin</actor>
+      <actor>Dan Mintz</actor>
+      <actor>Eugene Mirman</actor>
+      <actor>John Roberts</actor>
+      <actor>Kristen Schaal</actor>
+      <actor>Andy Kindler</actor>
+      <actor>Larry Murphy</actor>
+      <actor>Melissa Bardin Galsky</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S7 E4</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181202022000 -0200" stop="20181202035500 -0200" channel="FX">
+    <title lang="pt">Conexão Ásia</title>
+    <desc lang="pt">Dois americanos expatriados, Jack e Sam, sem querer, roubam o dinheiro de um traficante de drogas quando roubam uma série de bancos no sudeste da Ásia e tornam-se o alvo da vingança da gangue(n)</desc>
+    <credits>
+      <director>Daniel Zirilli</director>
+      <actor>Steven Seagal</actor>
+      <actor>Pin Bibear</actor>
+      <actor>Ron Smoorenburg</actor>
+      <actor>Michael Jai White</actor>
+      <actor>Eoin O'Brien</actor>
+      <actor>Sahajak Boonthanakit</actor>
+      <actor>Natalie Lorence</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181202035500 -0200" stop="20181202053000 -0200" channel="FX">
+    <title lang="pt">Crocodilo Dundee</title>
+    <desc lang="pt">Dundee conquista a bela e rica jornalista, Sue. Ela o convence a deixar seus bichos selvagens na Austrália para viver com ela na agitada metrópole de NY. Para ele, um desafio mais perigoso que mordida de crocodilo(n)</desc>
+    <credits>
+      <director>Peter Faiman</director>
+      <actor>Paul Hogan</actor>
+      <actor>John Meillon</actor>
+      <actor>Linda Kozlowski</actor>
+      <actor>David Gulpilil</actor>
+      <actor>Ritchie Singer</actor>
+      <actor>Steve Rackman</actor>
+      <actor>Graham 'Grace' Walker</actor>
+      <actor>Brett Hogan</actor>
+    </credits>
+    <date>1986</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181202053000 -0200" stop="20181202060000 -0200" channel="FX">
+    <title lang="pt">American Dad</title>
+    <desc lang="pt">Aborrecido por Hayley não querer mais seus conselhos, Stan resolve provar que ela está perdendo a chance de receber suas sábias recomendações(n)</desc>
+    <credits>
+      <director>Bob Bowen</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Scott Grimes</actor>
+      <actor>Rachael MacFarlane</actor>
+      <actor>Dee Bradley Baker</actor>
+    </credits>
+    <date>2009</date>
+    <episode-num system="onscreen">S6 E8</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181202060000 -0200" stop="20181202063000 -0200" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181202063000 -0200" stop="20181202070000 -0200" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181202070000 -0200" stop="20181202073000 -0200" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181202073000 -0200" stop="20181202080000 -0200" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181202080000 -0200" stop="20181202090000 -0200" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181202090000 -0200" stop="20181202105000 -0200" channel="FX">
+    <title lang="pt">Atrás das linhas Inimigas</title>
+    <desc lang="pt">Almirante Naval deixa de lado as regras rigidamente controladas em que opera e arrisca tudo num resgate desesperado para salvar a vida de seu soldado(n)</desc>
+    <credits>
+      <director>John Moore</director>
+      <actor>Owen Wilson</actor>
+      <actor>Gene Hackman</actor>
+      <actor>Joaquim de Almeida</actor>
+      <actor>David Keith</actor>
+      <actor>Olek Krupa</actor>
+      <actor>Eyal Podell</actor>
+      <actor>Elizabeth P. Perry</actor>
+      <actor>Dorothy Lucey</actor>
+      <actor>George Davis</actor>
+    </credits>
+    <date>2001</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181202105000 -0200" stop="20181202111000 -0200" channel="FX">
+    <title lang="pt">American Dad</title>
+    <desc lang="pt">Roger vai morar com Greg e Terry(n)</desc>
+    <credits>
+      <director>Joe Daniello</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Scott Grimes</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S11 E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181202111000 -0200" stop="20181202114000 -0200" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Bonnie, finalmente, dá à luz a uma garota chamada Susie. Stewie se apaixona e está disposto a fazer qualquer coisa para ganhar seu coração. Enquanto isso, Joe fica devendo 20 mil dólares para um agenciador(n)</desc>
+    <credits>
+      <director>John Holmquist</director>
+      <actor>Vozes de Alex Borstein</actor>
+      <actor>Seth Green</actor>
+      <actor>Seth MacFarlane</actor>
+      <actor>Patrick Warburton</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Mike Henry</actor>
+      <actor>Ralph Garman</actor>
+    </credits>
+    <date>2009</date>
+    <episode-num system="onscreen">S8 E7</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181202114000 -0200" stop="20181202120500 -0200" channel="FX">
+    <title lang="pt">Bob's Burgers</title>
+    <desc lang="pt">Quando Linda ganha um concurso para passar um fim de semana dos sonhos na casa onde seu programa de televisão favorito é filmado, as coisas não saem como planejadas(n)</desc>
+    <credits>
+      <director>Chris Song</director>
+      <actor>Vozes de H. Jon Benjamin</actor>
+      <actor>Dan Mintz</actor>
+      <actor>Eugene Mirman</actor>
+      <actor>John Roberts</actor>
+      <actor>Kristen Schaal</actor>
+      <actor>Andy Kindler</actor>
+      <actor>Larry Murphy</actor>
+      <actor>Melissa Bardin Galsky</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S7 E17</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181202120500 -0200" stop="20181202134000 -0200" channel="FX">
+    <title lang="pt">Apertem os Cintos O Piloto Sumiu</title>
+    <desc lang="pt">Durante um voo que vai de Los Angeles para Chicago, passageiros e tripulantes são atingidos por uma tragédia e o avião fica sem piloto. Apenas uma pessoa a bordo poderá salvá-los: o ex-piloto, Ted Striker(n)</desc>
+    <credits>
+      <director>Jim Abrahams</director>
+      <director>David Zucker</director>
+      <actor>Robert Hays</actor>
+      <actor>Julie Hagerty</actor>
+      <actor>Kareem Abdul-Jabbar</actor>
+      <actor>Lloyd Bridges</actor>
+      <actor>Peter Graves</actor>
+      <actor>Leslie Nielsen</actor>
+    </credits>
+    <date>1980</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181202134000 -0200" stop="20181202153500 -0200" channel="FX">
+    <title lang="pt">Um Tira da Pesada 3</title>
+    <desc lang="pt">Seguindo pistas de crime, Axel volta à ensolarada Califórnia e vai parar num parque de diversões que serve de fachada para rede de bandidos(n)</desc>
+    <credits>
+      <director>John Landis</director>
+      <actor>Eddie Murphy</actor>
+      <actor>Judge Reinhold</actor>
+      <actor>Jon tenney</actor>
+      <actor>Joey Travolta</actor>
+      <actor>Eugene Collier</actor>
+      <actor>Jimmy Ortega</actor>
+      <actor>Ray Lykins</actor>
+      <actor>Rick Avery</actor>
+      <actor>Louis Lombardi</actor>
+      <actor>Lindsey Ginter</actor>
+      <actor>Timothy Carhart</actor>
+    </credits>
+    <date>1994</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181202153500 -0200" stop="20181202172000 -0200" channel="FX">
+    <title lang="pt">Demolidor: O Homem Sem Medo</title>
+    <desc lang="pt">Garoto atingido por produto radioativo perde a visão, mas ganha grandes poderes extra-sensoriais. Ao crescer passa a combater o crime(n)</desc>
+    <credits>
+      <director>Mark Steven Johnson</director>
+      <actor>Ben Affleck</actor>
+      <actor>Jennifer Garner</actor>
+      <actor>Michael Clarke Duncan</actor>
+      <actor>Colin Farrell</actor>
+      <actor>Jon Favreau</actor>
+      <actor>Scott Terra</actor>
+      <actor>Ellen Pompeo</actor>
+      <actor>Joe Pantoliano</actor>
+      <actor>Leland Orser</actor>
+      <actor>Lennie Loftin</actor>
+      <actor>Erick Avari</actor>
+      <actor>Derrick O'Connor</actor>
+      <actor>Paul Ben-Victor</actor>
+      <actor>Frankie J. Allison</actor>
+      <actor>David Keith</actor>
+    </credits>
+    <date>2003</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181202172000 -0200" stop="20181202193000 -0200" channel="FX">
+    <title lang="pt">Branca de Neve e o Caçador</title>
+    <desc lang="pt">Contratado para matar Branca de Neve, o Caçador se recusa e, numa interessante volta ao clássico infantil, treina-a para derrotar a Rainha Malvada(n)</desc>
+    <credits>
+      <director>Rupert Sanders</director>
+      <actor>Kristen Stewart</actor>
+      <actor>Chris Hemsworth</actor>
+      <actor>Charlize Theron</actor>
+      <actor>Sam Claflin</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181202193000 -0200" stop="20181202212500 -0200" channel="FX">
+    <title lang="pt">As Tartarugas Ninja: Fora das Sombras</title>
+    <credits>
+      <director>Dave Green</director>
+      <actor>Megan Fox</actor>
+      <actor>Will Arnett</actor>
+      <actor>Laura Linney</actor>
+      <actor>Stephen Amell</actor>
+      <actor>Noel Fisher</actor>
+      <actor>Jeremy Howard</actor>
+      <actor>Pete Ploszek</actor>
+      <actor>Alan Ritchson</actor>
+      <actor>Tyler Perry</actor>
+      <actor>Brian Tee</actor>
+      <actor>Stephen Farrelly</actor>
+      <actor>Brad Garrett</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20181202212500 -0200" stop="20181202230500 -0200" channel="FX">
+    <title lang="pt">Quarteto Fantástico</title>
+    <desc lang="pt">Reed Richards é um brilhante cientista. Por sua inteligência ganha uma bolsa numa unidade especial, junto com outros parceiros. Após um acidente, eles retornam e descobrem que adquiriram superpoderes(n)</desc>
+    <credits>
+      <director>Josh Trank</director>
+      <actor>Kate Mara</actor>
+      <actor>Miles Teller</actor>
+      <actor>Michael B. Jordan</actor>
+      <actor>Jamie Bell</actor>
+      <actor>Toby Kebbell</actor>
+      <actor>Dan Castellaneta</actor>
+      <actor>Mary-Pat Green</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181202230500 -0200" stop="20181203010000 -0200" channel="FX">
+    <title lang="pt">Aliens Vs. Predador 2</title>
+    <desc lang="pt">Uma mistura de Alien com Predador chega em uma pequena cidade, mata a todos que encontra e produz inúmeros filhotes. Um predador solitário vem para conter a infestação e logo começa uma guerra implacável(n)</desc>
+    <credits>
+      <director>Colin Strause</director>
+      <director>Greg Strause</director>
+      <actor>Steven Pasquale</actor>
+      <actor>Reiko Aylesworth</actor>
+      <actor>John Ortiz</actor>
+      <actor>Johnny Lewis</actor>
+      <actor>Ariel Gade</actor>
+      <actor>Kristen Hager</actor>
+      <actor>Sam Trammell</actor>
+      <actor>Robert Joy</actor>
+      <actor>Tom Woodruff Jr</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181128004500 -0200" stop="20181128023800 -0200" channel="Space">
+    <title lang="pt">Daylight</title>
+    <desc lang="pt">Acidente entre carro e caminhão de combustível deixa dezenas de pessoas presas no túnel submerso que liga Manhattan a Nova Jérsei. Cabe ao corajoso ex-bombeiro Kit Latura e tarefa de resgatar os sobreviventes(n)</desc>
+    <credits>
+      <director>Rob Cohen</director>
+      <actor>Sylvester Stallone</actor>
+      <actor>Amy Brenneman</actor>
+      <actor>Viggo Mortensen</actor>
+      <actor>Dan Hedaya</actor>
+      <actor>Claire Bloom</actor>
+      <actor>Stan Shaw</actor>
+      <actor>Jay O Sanders</actor>
+      <actor>Karen Young</actor>
+      <actor>Barry Newman</actor>
+      <actor>Colin Fox</actor>
+      <actor>Vanessa Bell Calloway</actor>
+    </credits>
+    <date>1996</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181128023800 -0200" stop="20181128040600 -0200" channel="Space">
+    <title lang="pt">Nitro Circus</title>
+    <desc lang="pt">Baseado numa série de TV, o filme mostra a preparação de um grupo de atletas profissionais de esportes radicais, liderados por Travis Pastrana, para uma grande apresentação em Las Vegas(n)</desc>
+    <credits>
+      <director>Gregg Godfrey</director>
+      <director>Jeremy Rawle</director>
+      <actor>Trevis Pastrana</actor>
+      <actor>Tommy Passemante</actor>
+      <actor>Jolene Van Vugt</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181128040600 -0200" stop="20181128050000 -0200" channel="Space">
+    <title lang="pt">Movie Talk</title>
+    <desc lang="pt">Apresentado pelo experiente entrevistador Jason Solomons, Movie Talk é um exclusivo e aprofundado olhar sobre as carreiras dos atores e cineastas mais reconhecidos de Hollywood(n)</desc>
+    <credits>
+      <director>Lyndy Saville</director>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S5 E20</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181128050000 -0200" stop="20181128073800 -0200" channel="Space">
+    <title lang="pt">Meu Ódio Será Tua Herança</title>
+    <desc lang="pt">EUA, 1913. Após uma fracassada tentativa de assalto a banco, um grupo de nove veteranos foras-da-lei segue para o México, onde pretendem realizar um último grande golpe antes da aposentadoria(n)</desc>
+    <credits>
+      <director>Sam Peckinpah</director>
+      <actor>William Holden</actor>
+      <actor>Ernest Borgnine</actor>
+      <actor>Robert Ryan</actor>
+      <actor>Edmond O'Brien</actor>
+      <actor>Warren Oates</actor>
+      <actor>Ben Johnson</actor>
+      <actor>Emilio Fernández</actor>
+      <actor>Albert Dekker</actor>
+      <actor>Bo Hopkins</actor>
+      <actor>Paul Harper</actor>
+      <actor>Jorge Russek</actor>
+    </credits>
+    <date>1969</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181128073800 -0200" stop="20181128095000 -0200" channel="Space">
+    <title lang="pt">Shock Wave</title>
+    <desc lang="pt">Um terrorista expert em explosivos, cuja quadrilha foi desarticulada, busca vingança: ameaça explodir um túnel de Hong Kong com centenas de reféns(n)</desc>
+    <credits>
+      <director>Herman Yau</director>
+      <actor>Andy Lau</actor>
+      <actor>Jia Song</actor>
+      <actor>Wu Jiang</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181128095000 -0200" stop="20181128110000 -0200" channel="Space">
+    <title lang="pt">De Placa</title>
+    <desc lang="pt">Rodrigo Rodrigues, Alê Oliveira, Mauro Beting, Gustavo Zupak e André Henning vão tornar as suas manhãs muito mais divertidas, com bom-humor, irreverência, algumas sessões de karaokê e até com discussões de futebol(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181128110000 -0200" stop="20181128124300 -0200" channel="Space">
+    <title lang="pt">Daylight</title>
+    <desc lang="pt">Acidente entre carro e caminhão de combustível deixa dezenas de pessoas presas no túnel submerso que liga Manhattan a Nova Jérsei. Cabe ao corajoso ex-bombeiro Kit Latura e tarefa de resgatar os sobreviventes(n)</desc>
+    <credits>
+      <director>Rob Cohen</director>
+      <actor>Sylvester Stallone</actor>
+      <actor>Amy Brenneman</actor>
+      <actor>Viggo Mortensen</actor>
+      <actor>Dan Hedaya</actor>
+      <actor>Claire Bloom</actor>
+      <actor>Stan Shaw</actor>
+      <actor>Jay O Sanders</actor>
+      <actor>Karen Young</actor>
+      <actor>Barry Newman</actor>
+      <actor>Colin Fox</actor>
+      <actor>Vanessa Bell Calloway</actor>
+    </credits>
+    <date>1996</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181128124300 -0200" stop="20181128144500 -0200" channel="Space">
+    <title lang="pt">Malditas Aranhas</title>
+    <desc lang="pt">Acidente com substâncias químicas transforma aranhazinhas em feras enormes. Sedentas de sangue, atacam habitantes de uma pequena cidade dos EUA(n)</desc>
+    <credits>
+      <director>Ellory Elkayem</director>
+      <actor>David Arquette</actor>
+      <actor>Kari Wuhrer</actor>
+      <actor>Scott Terra</actor>
+      <actor>Scarlett Johansson</actor>
+      <actor>Doug E. Doug</actor>
+      <actor>Leon Rippy</actor>
+      <actor>Rick Overton</actor>
+      <actor>Matt Czuchry</actor>
+      <actor>Jay Arlen Jones</actor>
+      <actor>Eileen Ryan</actor>
+      <actor>Jane Edith Wilson</actor>
+    </credits>
+    <date>2002</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181128144500 -0200" stop="20181128170000 -0200" channel="Space">
+    <title lang="pt">UEFA Champions League</title>
+    <desc lang="pt">A nova temporada do maior torneio de futebol entre clubes do mundo(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181128170000 -0200" stop="20181128190000 -0200" channel="Space">
+    <title lang="pt">UEFA Champions League</title>
+    <desc lang="pt">A nova temporada do maior torneio de futebol entre clubes do mundo(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181128190000 -0200" stop="20181128204500 -0200" channel="Space">
+    <title lang="pt">A Salvação</title>
+    <desc lang="pt">Na América de 1870, um pacífico colono americano mata o culpado por assassinar sua família, o que desperta a fúria do líder de uma famosa gangue local. Os covardes moradores da cidade traem sua confiança e delatam sua localização(n)</desc>
+    <credits>
+      <director>Kristian Levring</director>
+      <actor>Mads Mikkelsen</actor>
+      <actor>Eva Green</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Eric Cantona</actor>
+      <actor>Mikael Persbrandt</actor>
+      <actor>Douglas Henshall</actor>
+      <actor>Michael Raymond-James</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181128204500 -0200" stop="20181128225000 -0200" channel="Space">
+    <title lang="pt">Noite sem Fim</title>
+    <desc lang="pt">Em uma única noite um atirador da máfia deve matar seu patrão, proteger sua família e correr da polícia enquanto se aproxima de seu filho distante(n)</desc>
+    <credits>
+      <director>Jaume Collet-Serra</director>
+      <actor>Liam Neeson</actor>
+      <actor>Ed Harris</actor>
+      <actor>Joel Kinnaman</actor>
+      <actor>Boyd Holbrook</actor>
+      <actor>Bruce McGill</actor>
+      <actor>Genesis Rodriguez</actor>
+      <actor>Vincent D'Onofrio</actor>
+      <actor>Lois Smith</actor>
+      <actor>Common</actor>
+      <actor>Beau Knapp</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181128225000 -0200" stop="20181129004500 -0200" channel="Space">
+    <title lang="pt">+90</title>
+    <desc lang="pt">Comandado por Alex Muller, o +90 entra em campo com time de craques debatendo sobre os principais assuntos do planeta da bola(n)</desc>
+    <credits>
+      <actor>Alex Muller</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181129004500 -0200" stop="20181129023800 -0200" channel="Space">
+    <title lang="pt">Daylight</title>
+    <desc lang="pt">Acidente entre carro e caminhão de combustível deixa dezenas de pessoas presas no túnel submerso que liga Manhattan a Nova Jérsei. Cabe ao corajoso ex-bombeiro Kit Latura e tarefa de resgatar os sobreviventes(n)</desc>
+    <credits>
+      <director>Rob Cohen</director>
+      <actor>Sylvester Stallone</actor>
+      <actor>Amy Brenneman</actor>
+      <actor>Viggo Mortensen</actor>
+      <actor>Dan Hedaya</actor>
+      <actor>Claire Bloom</actor>
+      <actor>Stan Shaw</actor>
+      <actor>Jay O Sanders</actor>
+      <actor>Karen Young</actor>
+      <actor>Barry Newman</actor>
+      <actor>Colin Fox</actor>
+      <actor>Vanessa Bell Calloway</actor>
+    </credits>
+    <date>1996</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181129023800 -0200" stop="20181129040600 -0200" channel="Space">
+    <title lang="pt">Nitro Circus</title>
+    <desc lang="pt">Baseado numa série de TV, o filme mostra a preparação de um grupo de atletas profissionais de esportes radicais, liderados por Travis Pastrana, para uma grande apresentação em Las Vegas(n)</desc>
+    <credits>
+      <director>Gregg Godfrey</director>
+      <director>Jeremy Rawle</director>
+      <actor>Trevis Pastrana</actor>
+      <actor>Tommy Passemante</actor>
+      <actor>Jolene Van Vugt</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181129040600 -0200" stop="20181129050000 -0200" channel="Space">
+    <title lang="pt">Movie Talk</title>
+    <desc lang="pt">Apresentado pelo experiente entrevistador Jason Solomons, Movie Talk é um exclusivo e aprofundado olhar sobre as carreiras dos atores e cineastas mais reconhecidos de Hollywood(n)</desc>
+    <credits>
+      <director>Lyndy Saville</director>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S5 E20</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181129050000 -0200" stop="20181129073800 -0200" channel="Space">
+    <title lang="pt">Meu Ódio Será Tua Herança</title>
+    <desc lang="pt">EUA, 1913. Após uma fracassada tentativa de assalto a banco, um grupo de nove veteranos foras-da-lei segue para o México, onde pretendem realizar um último grande golpe antes da aposentadoria(n)</desc>
+    <credits>
+      <director>Sam Peckinpah</director>
+      <actor>William Holden</actor>
+      <actor>Ernest Borgnine</actor>
+      <actor>Robert Ryan</actor>
+      <actor>Edmond O'Brien</actor>
+      <actor>Warren Oates</actor>
+      <actor>Ben Johnson</actor>
+      <actor>Emilio Fernández</actor>
+      <actor>Albert Dekker</actor>
+      <actor>Bo Hopkins</actor>
+      <actor>Paul Harper</actor>
+      <actor>Jorge Russek</actor>
+    </credits>
+    <date>1969</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181129073800 -0200" stop="20181129095000 -0200" channel="Space">
+    <title lang="pt">Shock Wave</title>
+    <desc lang="pt">Um terrorista expert em explosivos, cuja quadrilha foi desarticulada, busca vingança: ameaça explodir um túnel de Hong Kong com centenas de reféns(n)</desc>
+    <credits>
+      <director>Herman Yau</director>
+      <actor>Andy Lau</actor>
+      <actor>Jia Song</actor>
+      <actor>Wu Jiang</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181129095000 -0200" stop="20181129110000 -0200" channel="Space">
+    <title lang="pt">De Placa</title>
+    <desc lang="pt">Rodrigo Rodrigues, Alê Oliveira, Mauro Beting, Gustavo Zupak e André Henning vão tornar as suas manhãs muito mais divertidas, com bom-humor, irreverência, algumas sessões de karaokê e até com discussões de futebol(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181129110000 -0200" stop="20181129124300 -0200" channel="Space">
+    <title lang="pt">Daylight</title>
+    <desc lang="pt">Acidente entre carro e caminhão de combustível deixa dezenas de pessoas presas no túnel submerso que liga Manhattan a Nova Jérsei. Cabe ao corajoso ex-bombeiro Kit Latura e tarefa de resgatar os sobreviventes(n)</desc>
+    <credits>
+      <director>Rob Cohen</director>
+      <actor>Sylvester Stallone</actor>
+      <actor>Amy Brenneman</actor>
+      <actor>Viggo Mortensen</actor>
+      <actor>Dan Hedaya</actor>
+      <actor>Claire Bloom</actor>
+      <actor>Stan Shaw</actor>
+      <actor>Jay O Sanders</actor>
+      <actor>Karen Young</actor>
+      <actor>Barry Newman</actor>
+      <actor>Colin Fox</actor>
+      <actor>Vanessa Bell Calloway</actor>
+    </credits>
+    <date>1996</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181129124300 -0200" stop="20181129144500 -0200" channel="Space">
+    <title lang="pt">Malditas Aranhas</title>
+    <desc lang="pt">Acidente com substâncias químicas transforma aranhazinhas em feras enormes. Sedentas de sangue, atacam habitantes de uma pequena cidade dos EUA(n)</desc>
+    <credits>
+      <director>Ellory Elkayem</director>
+      <actor>David Arquette</actor>
+      <actor>Kari Wuhrer</actor>
+      <actor>Scott Terra</actor>
+      <actor>Scarlett Johansson</actor>
+      <actor>Doug E. Doug</actor>
+      <actor>Leon Rippy</actor>
+      <actor>Rick Overton</actor>
+      <actor>Matt Czuchry</actor>
+      <actor>Jay Arlen Jones</actor>
+      <actor>Eileen Ryan</actor>
+      <actor>Jane Edith Wilson</actor>
+    </credits>
+    <date>2002</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181129144500 -0200" stop="20181129170000 -0200" channel="Space">
+    <title lang="pt">UEFA Champions League</title>
+    <desc lang="pt">A nova temporada do maior torneio de futebol entre clubes do mundo(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181129170000 -0200" stop="20181129190000 -0200" channel="Space">
+    <title lang="pt">UEFA Champions League</title>
+    <desc lang="pt">A nova temporada do maior torneio de futebol entre clubes do mundo(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181129190000 -0200" stop="20181129204500 -0200" channel="Space">
+    <title lang="pt">A Salvação</title>
+    <desc lang="pt">Na América de 1870, um pacífico colono americano mata o culpado por assassinar sua família, o que desperta a fúria do líder de uma famosa gangue local. Os covardes moradores da cidade traem sua confiança e delatam sua localização(n)</desc>
+    <credits>
+      <director>Kristian Levring</director>
+      <actor>Mads Mikkelsen</actor>
+      <actor>Eva Green</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Eric Cantona</actor>
+      <actor>Mikael Persbrandt</actor>
+      <actor>Douglas Henshall</actor>
+      <actor>Michael Raymond-James</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181129204500 -0200" stop="20181129225000 -0200" channel="Space">
+    <title lang="pt">Noite sem Fim</title>
+    <desc lang="pt">Em uma única noite um atirador da máfia deve matar seu patrão, proteger sua família e correr da polícia enquanto se aproxima de seu filho distante(n)</desc>
+    <credits>
+      <director>Jaume Collet-Serra</director>
+      <actor>Liam Neeson</actor>
+      <actor>Ed Harris</actor>
+      <actor>Joel Kinnaman</actor>
+      <actor>Boyd Holbrook</actor>
+      <actor>Bruce McGill</actor>
+      <actor>Genesis Rodriguez</actor>
+      <actor>Vincent D'Onofrio</actor>
+      <actor>Lois Smith</actor>
+      <actor>Common</actor>
+      <actor>Beau Knapp</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181129225000 -0200" stop="20181130002000 -0200" channel="Space">
+    <title lang="pt">+90</title>
+    <desc lang="pt">Comandado por Alex Muller, o +90 entra em campo com time de craques debatendo sobre os principais assuntos do planeta da bola(n)</desc>
+    <credits>
+      <actor>Alex Muller</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181130002000 -0200" stop="20181130023400 -0200" channel="Space">
+    <title lang="pt">Selvagens</title>
+    <desc lang="pt">Dois amigos dedicados ao tráfico de maconha devem resgatar a bela namorada que os dois dividem, que foi sequestrada por um poderoso cartel mexicano. Dirigido por Oliver Stone. Com Benício del Toro e Salma Hayek(n)</desc>
+    <credits>
+      <director>Oliver Stone</director>
+      <actor>Blake Lively</actor>
+      <actor>Taylor Kitsch</actor>
+      <actor>Aaron Taylor-Johnson</actor>
+      <actor>Jana Banker</actor>
+      <actor>Candra Docherty</actor>
+      <actor>Benicio Del Toro</actor>
+      <actor>Salma Hayek</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20181130023400 -0200" stop="20181130041800 -0200" channel="Space">
+    <title lang="pt">Rápida e Mortal</title>
+    <desc lang="pt">Uma pistoleira chega a um povoado para se vingar de um vilão que planejou um duelo para matar seus rivais(n)</desc>
+    <credits>
+      <director>Sam Raimi</director>
+      <actor>Sharon Stone</actor>
+      <actor>Gene Hackman</actor>
+      <actor>Russell Crowe</actor>
+      <actor>Leonardo di Caprio</actor>
+      <actor>Tobin Bell</actor>
+      <actor>Roberts Blossom</actor>
+      <actor>Kevin Conway</actor>
+      <actor>Keith David</actor>
+      <actor>Lance Henriksen</actor>
+      <actor>Gary Sinise</actor>
+    </credits>
+    <date>1995</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181130041800 -0200" stop="20181130050000 -0200" channel="Space">
+    <title lang="pt">Movie Talk</title>
+    <desc lang="pt">Apresentado pelo experiente entrevistador Jason Solomons, Movie Talk é um exclusivo e aprofundado olhar sobre as carreiras dos atores e cineastas mais reconhecidos de Hollywood(n)</desc>
+    <credits>
+      <director>Lyndy Saville</director>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S5 E8</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181130050000 -0200" stop="20181130060900 -0200" channel="Space">
+    <title lang="pt">Lampreias ao Ataque</title>
+    <desc lang="pt">Michael, especialista em peixes e animais selvagens, muda-se para uma nova cidade a pedido do prefeito. Seu trabalho é ajudar a combater uma invasão de lampreias que estão atacando a população(n)</desc>
+    <credits>
+      <director>James Cullen Bressack</director>
+      <actor>Christopher Lloyd</actor>
+      <actor>Ciara Hanna</actor>
+      <actor>Jason Brooks</actor>
+      <actor>Zack Ward</actor>
+      <actor>Koosha Yar</actor>
+      <actor>Fred Stoller</actor>
+      <actor>Rachel True</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181130060900 -0200" stop="20181130075500 -0200" channel="Space">
+    <title lang="pt">Malditas Aranhas</title>
+    <desc lang="pt">Acidente com substâncias químicas transforma aranhazinhas em feras enormes. Sedentas de sangue, atacam habitantes de uma pequena cidade dos EUA(n)</desc>
+    <credits>
+      <director>Ellory Elkayem</director>
+      <actor>David Arquette</actor>
+      <actor>Kari Wuhrer</actor>
+      <actor>Scott Terra</actor>
+      <actor>Scarlett Johansson</actor>
+      <actor>Doug E. Doug</actor>
+      <actor>Leon Rippy</actor>
+      <actor>Rick Overton</actor>
+      <actor>Matt Czuchry</actor>
+      <actor>Jay Arlen Jones</actor>
+      <actor>Eileen Ryan</actor>
+      <actor>Jane Edith Wilson</actor>
+    </credits>
+    <date>2002</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181130075500 -0200" stop="20181130095000 -0200" channel="Space">
+    <title lang="pt">Rápida e Mortal</title>
+    <desc lang="pt">Uma pistoleira chega a um povoado para se vingar de um vilão que planejou um duelo para matar seus rivais(n)</desc>
+    <credits>
+      <director>Sam Raimi</director>
+      <actor>Sharon Stone</actor>
+      <actor>Gene Hackman</actor>
+      <actor>Russell Crowe</actor>
+      <actor>Leonardo di Caprio</actor>
+      <actor>Tobin Bell</actor>
+      <actor>Roberts Blossom</actor>
+      <actor>Kevin Conway</actor>
+      <actor>Keith David</actor>
+      <actor>Lance Henriksen</actor>
+      <actor>Gary Sinise</actor>
+    </credits>
+    <date>1995</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181130095000 -0200" stop="20181130110000 -0200" channel="Space">
+    <title lang="pt">De Placa</title>
+    <desc lang="pt">Rodrigo Rodrigues, Alê Oliveira, Mauro Beting, Gustavo Zupak e André Henning vão tornar as suas manhãs muito mais divertidas, com bom-humor, irreverência, algumas sessões de karaokê e até com discussões de futebol(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181130110000 -0200" stop="20181130122200 -0200" channel="Space">
+    <title lang="pt">A Salvação</title>
+    <desc lang="pt">Na América de 1870, um pacífico colono americano mata o culpado por assassinar sua família, o que desperta a fúria do líder de uma famosa gangue local. Os covardes moradores da cidade traem sua confiança e delatam sua localização(n)</desc>
+    <credits>
+      <director>Kristian Levring</director>
+      <actor>Mads Mikkelsen</actor>
+      <actor>Eva Green</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Eric Cantona</actor>
+      <actor>Mikael Persbrandt</actor>
+      <actor>Douglas Henshall</actor>
+      <actor>Michael Raymond-James</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181130122200 -0200" stop="20181130142700 -0200" channel="Space">
+    <title lang="pt">Noite sem Fim</title>
+    <desc lang="pt">Em uma única noite um atirador da máfia deve matar seu patrão, proteger sua família e correr da polícia enquanto se aproxima de seu filho distante(n)</desc>
+    <credits>
+      <director>Jaume Collet-Serra</director>
+      <actor>Liam Neeson</actor>
+      <actor>Ed Harris</actor>
+      <actor>Joel Kinnaman</actor>
+      <actor>Boyd Holbrook</actor>
+      <actor>Bruce McGill</actor>
+      <actor>Genesis Rodriguez</actor>
+      <actor>Vincent D'Onofrio</actor>
+      <actor>Lois Smith</actor>
+      <actor>Common</actor>
+      <actor>Beau Knapp</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181130142700 -0200" stop="20181130162200 -0200" channel="Space">
+    <title lang="pt">Bem-Vindo à Selva</title>
+    <desc lang="pt">Um incansável caçador de recompensas recebe uma nova incumbência: ir para a selva brasileira e achar o filho de um mafioso. Mas o interesse numa peça de ouro e as ações de um ambicioso homem da região atrapalham seus planos(n)</desc>
+    <credits>
+      <director>Peter Berg</director>
+      <actor>The Rock</actor>
+      <actor>Seann William Scott</actor>
+      <actor>Rosario Dawson</actor>
+      <actor>Christopher Walken</actor>
+      <actor>Ewen Bremner</actor>
+      <actor>Jon Gries</actor>
+      <actor>William Lucking</actor>
+      <actor>Ernie Reyes Jr</actor>
+      <actor>Dennis Keiffer</actor>
+      <actor>Toby Holguin</actor>
+    </credits>
+    <date>2003</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181130162200 -0200" stop="20181130175600 -0200" channel="Space">
+    <title lang="pt">Homens da Pátria</title>
+    <desc lang="pt">Através de um projetor de filmes 16 mm e latas que herdou de seu pai, um jovem descobre a aventura de seu avô, que lutou na Segunda Guerra Mundial, quando o Brasil enviou 25.000 soldados para lutar com os Estados Unidos(n)</desc>
+    <credits>
+      <director>Gastão Coimbra</director>
+      <actor>Alexandre Ghati</actor>
+      <actor>Fábio Vila Visconde</actor>
+      <actor>David Wendefilm</actor>
+      <actor>Carlos Manhães</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181130175600 -0200" stop="20181130193400 -0200" channel="Space">
+    <title lang="pt">Isolados</title>
+    <desc lang="pt">Um casal tenta resolver uma crise em seu relacionamento com um fim de semana sozinhos em uma praia isolada. Ao chegarem lá, não tomam cuidados e poluem a área preservada. A mãe natureza busca vingança(n)</desc>
+    <credits>
+      <director>Jamie Blanks</director>
+      <actor>James Caviezel</actor>
+      <actor>Claudia Karvan</actor>
+      <actor>Robert Taylor</actor>
+      <actor>John Brumpton</actor>
+      <actor>Roger Ward</actor>
+      <actor>Lara Robinson</actor>
+      <actor>Gordon Waddell</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181130193400 -0200" stop="20181130213000 -0200" channel="Space">
+    <title lang="pt">MIB - Homens de Preto 3</title>
+    <desc lang="pt">O agente J viaja pelo tempo de volta aos anos 60 para evitar o assassinato de seu amigo, o agente K, que mudaria o curso da história. Durante essa missão, J conhecerá muitos segredos, incluindo alguns que atormentaram K(n)</desc>
+    <credits>
+      <director>Barry Sonnenfeld</director>
+      <actor>Will Smith</actor>
+      <actor>Tommy Lee Jones</actor>
+      <actor>Josh Brolin</actor>
+      <actor>Emma Thompson</actor>
+      <actor>Michael Stuhlbarg</actor>
+      <actor>Nicole Scherzinger</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20181130213000 -0200" stop="20181130232500 -0200" channel="Space">
+    <title lang="pt">Golpe Duplo</title>
+    <desc lang="pt">Nicky, um trapaceiro profissional, é escolhido como vítima por uma iniciante na profissão, Jess. Ele se deixa levar pelo golpe para desmascará-la no momento certo(n)</desc>
+    <credits>
+      <director>Glenn Ficarra</director>
+      <director>John Requa</director>
+      <actor>Will Smith</actor>
+      <actor>Margot Robbie</actor>
+      <actor>Adrian Martinez</actor>
+      <actor>Gerald McRaney</actor>
+      <actor>Rodrigo Santoro</actor>
+      <actor>BD Wong</actor>
+      <actor>Brennan Brown</actor>
+      <actor>Robert Taylor</actor>
+      <actor>Dotan Bonen</actor>
+      <actor>Griff Furst</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181130232500 -0200" stop="20181201002000 -0200" channel="Space">
+    <title lang="pt">Everly - Implacável e Perigosa</title>
+    <desc lang="pt">Uma escrava sexual que foi encarcerada por anos pelo chefe da máfia Yakuza enfrenta uma série de criminosos japoneses, a fim de proteger sua mãe e salvar sua filha, que não vê há anos(n)</desc>
+    <credits>
+      <director>Joe Lynch</director>
+      <actor>Salma Hayek</actor>
+      <actor>Laura Cepeda</actor>
+      <actor>Togo Igawa</actor>
+      <actor>Jennifer Blanc</actor>
+      <actor>Hiroyuki Watanabe</actor>
+      <actor>Masashi Fujimoto</actor>
+      <actor>Aisha Ayamah</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20181201002000 -0200" stop="20181201023400 -0200" channel="Space">
+    <title lang="pt">Selvagens</title>
+    <desc lang="pt">Dois amigos dedicados ao tráfico de maconha devem resgatar a bela namorada que os dois dividem, que foi sequestrada por um poderoso cartel mexicano. Dirigido por Oliver Stone. Com Benício del Toro e Salma Hayek(n)</desc>
+    <credits>
+      <director>Oliver Stone</director>
+      <actor>Blake Lively</actor>
+      <actor>Taylor Kitsch</actor>
+      <actor>Aaron Taylor-Johnson</actor>
+      <actor>Jana Banker</actor>
+      <actor>Candra Docherty</actor>
+      <actor>Benicio Del Toro</actor>
+      <actor>Salma Hayek</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20181201023400 -0200" stop="20181201041800 -0200" channel="Space">
+    <title lang="pt">Rápida e Mortal</title>
+    <desc lang="pt">Uma pistoleira chega a um povoado para se vingar de um vilão que planejou um duelo para matar seus rivais(n)</desc>
+    <credits>
+      <director>Sam Raimi</director>
+      <actor>Sharon Stone</actor>
+      <actor>Gene Hackman</actor>
+      <actor>Russell Crowe</actor>
+      <actor>Leonardo di Caprio</actor>
+      <actor>Tobin Bell</actor>
+      <actor>Roberts Blossom</actor>
+      <actor>Kevin Conway</actor>
+      <actor>Keith David</actor>
+      <actor>Lance Henriksen</actor>
+      <actor>Gary Sinise</actor>
+    </credits>
+    <date>1995</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181201041800 -0200" stop="20181201050000 -0200" channel="Space">
+    <title lang="pt">Movie Talk</title>
+    <desc lang="pt">Apresentado pelo experiente entrevistador Jason Solomons, Movie Talk é um exclusivo e aprofundado olhar sobre as carreiras dos atores e cineastas mais reconhecidos de Hollywood(n)</desc>
+    <credits>
+      <director>Lyndy Saville</director>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S5 E8</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181201050000 -0200" stop="20181201060900 -0200" channel="Space">
+    <title lang="pt">Lampreias ao Ataque</title>
+    <desc lang="pt">Michael, especialista em peixes e animais selvagens, muda-se para uma nova cidade a pedido do prefeito. Seu trabalho é ajudar a combater uma invasão de lampreias que estão atacando a população(n)</desc>
+    <credits>
+      <director>James Cullen Bressack</director>
+      <actor>Christopher Lloyd</actor>
+      <actor>Ciara Hanna</actor>
+      <actor>Jason Brooks</actor>
+      <actor>Zack Ward</actor>
+      <actor>Koosha Yar</actor>
+      <actor>Fred Stoller</actor>
+      <actor>Rachel True</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181201060900 -0200" stop="20181201075500 -0200" channel="Space">
+    <title lang="pt">Malditas Aranhas</title>
+    <desc lang="pt">Acidente com substâncias químicas transforma aranhazinhas em feras enormes. Sedentas de sangue, atacam habitantes de uma pequena cidade dos EUA(n)</desc>
+    <credits>
+      <director>Ellory Elkayem</director>
+      <actor>David Arquette</actor>
+      <actor>Kari Wuhrer</actor>
+      <actor>Scott Terra</actor>
+      <actor>Scarlett Johansson</actor>
+      <actor>Doug E. Doug</actor>
+      <actor>Leon Rippy</actor>
+      <actor>Rick Overton</actor>
+      <actor>Matt Czuchry</actor>
+      <actor>Jay Arlen Jones</actor>
+      <actor>Eileen Ryan</actor>
+      <actor>Jane Edith Wilson</actor>
+    </credits>
+    <date>2002</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181201075500 -0200" stop="20181201095000 -0200" channel="Space">
+    <title lang="pt">Rápida e Mortal</title>
+    <desc lang="pt">Uma pistoleira chega a um povoado para se vingar de um vilão que planejou um duelo para matar seus rivais(n)</desc>
+    <credits>
+      <director>Sam Raimi</director>
+      <actor>Sharon Stone</actor>
+      <actor>Gene Hackman</actor>
+      <actor>Russell Crowe</actor>
+      <actor>Leonardo di Caprio</actor>
+      <actor>Tobin Bell</actor>
+      <actor>Roberts Blossom</actor>
+      <actor>Kevin Conway</actor>
+      <actor>Keith David</actor>
+      <actor>Lance Henriksen</actor>
+      <actor>Gary Sinise</actor>
+    </credits>
+    <date>1995</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181201095000 -0200" stop="20181201110000 -0200" channel="Space">
+    <title lang="pt">De Placa</title>
+    <desc lang="pt">Rodrigo Rodrigues, Alê Oliveira, Mauro Beting, Gustavo Zupak e André Henning vão tornar as suas manhãs muito mais divertidas, com bom-humor, irreverência, algumas sessões de karaokê e até com discussões de futebol(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181201110000 -0200" stop="20181201122200 -0200" channel="Space">
+    <title lang="pt">A Salvação</title>
+    <desc lang="pt">Na América de 1870, um pacífico colono americano mata o culpado por assassinar sua família, o que desperta a fúria do líder de uma famosa gangue local. Os covardes moradores da cidade traem sua confiança e delatam sua localização(n)</desc>
+    <credits>
+      <director>Kristian Levring</director>
+      <actor>Mads Mikkelsen</actor>
+      <actor>Eva Green</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Eric Cantona</actor>
+      <actor>Mikael Persbrandt</actor>
+      <actor>Douglas Henshall</actor>
+      <actor>Michael Raymond-James</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181201122200 -0200" stop="20181201142700 -0200" channel="Space">
+    <title lang="pt">Noite sem Fim</title>
+    <desc lang="pt">Em uma única noite um atirador da máfia deve matar seu patrão, proteger sua família e correr da polícia enquanto se aproxima de seu filho distante(n)</desc>
+    <credits>
+      <director>Jaume Collet-Serra</director>
+      <actor>Liam Neeson</actor>
+      <actor>Ed Harris</actor>
+      <actor>Joel Kinnaman</actor>
+      <actor>Boyd Holbrook</actor>
+      <actor>Bruce McGill</actor>
+      <actor>Genesis Rodriguez</actor>
+      <actor>Vincent D'Onofrio</actor>
+      <actor>Lois Smith</actor>
+      <actor>Common</actor>
+      <actor>Beau Knapp</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181201142700 -0200" stop="20181201162200 -0200" channel="Space">
+    <title lang="pt">Bem-Vindo à Selva</title>
+    <desc lang="pt">Um incansável caçador de recompensas recebe uma nova incumbência: ir para a selva brasileira e achar o filho de um mafioso. Mas o interesse numa peça de ouro e as ações de um ambicioso homem da região atrapalham seus planos(n)</desc>
+    <credits>
+      <director>Peter Berg</director>
+      <actor>The Rock</actor>
+      <actor>Seann William Scott</actor>
+      <actor>Rosario Dawson</actor>
+      <actor>Christopher Walken</actor>
+      <actor>Ewen Bremner</actor>
+      <actor>Jon Gries</actor>
+      <actor>William Lucking</actor>
+      <actor>Ernie Reyes Jr</actor>
+      <actor>Dennis Keiffer</actor>
+      <actor>Toby Holguin</actor>
+    </credits>
+    <date>2003</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181201162200 -0200" stop="20181201175600 -0200" channel="Space">
+    <title lang="pt">Homens da Pátria</title>
+    <desc lang="pt">Através de um projetor de filmes 16 mm e latas que herdou de seu pai, um jovem descobre a aventura de seu avô, que lutou na Segunda Guerra Mundial, quando o Brasil enviou 25.000 soldados para lutar com os Estados Unidos(n)</desc>
+    <credits>
+      <director>Gastão Coimbra</director>
+      <actor>Alexandre Ghati</actor>
+      <actor>Fábio Vila Visconde</actor>
+      <actor>David Wendefilm</actor>
+      <actor>Carlos Manhães</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181201175600 -0200" stop="20181201193400 -0200" channel="Space">
+    <title lang="pt">Isolados</title>
+    <desc lang="pt">Um casal tenta resolver uma crise em seu relacionamento com um fim de semana sozinhos em uma praia isolada. Ao chegarem lá, não tomam cuidados e poluem a área preservada. A mãe natureza busca vingança(n)</desc>
+    <credits>
+      <director>Jamie Blanks</director>
+      <actor>James Caviezel</actor>
+      <actor>Claudia Karvan</actor>
+      <actor>Robert Taylor</actor>
+      <actor>John Brumpton</actor>
+      <actor>Roger Ward</actor>
+      <actor>Lara Robinson</actor>
+      <actor>Gordon Waddell</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181201193400 -0200" stop="20181201213000 -0200" channel="Space">
+    <title lang="pt">MIB - Homens de Preto 3</title>
+    <desc lang="pt">O agente J viaja pelo tempo de volta aos anos 60 para evitar o assassinato de seu amigo, o agente K, que mudaria o curso da história. Durante essa missão, J conhecerá muitos segredos, incluindo alguns que atormentaram K(n)</desc>
+    <credits>
+      <director>Barry Sonnenfeld</director>
+      <actor>Will Smith</actor>
+      <actor>Tommy Lee Jones</actor>
+      <actor>Josh Brolin</actor>
+      <actor>Emma Thompson</actor>
+      <actor>Michael Stuhlbarg</actor>
+      <actor>Nicole Scherzinger</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20181201213000 -0200" stop="20181201232500 -0200" channel="Space">
+    <title lang="pt">Golpe Duplo</title>
+    <desc lang="pt">Nicky, um trapaceiro profissional, é escolhido como vítima por uma iniciante na profissão, Jess. Ele se deixa levar pelo golpe para desmascará-la no momento certo(n)</desc>
+    <credits>
+      <director>Glenn Ficarra</director>
+      <director>John Requa</director>
+      <actor>Will Smith</actor>
+      <actor>Margot Robbie</actor>
+      <actor>Adrian Martinez</actor>
+      <actor>Gerald McRaney</actor>
+      <actor>Rodrigo Santoro</actor>
+      <actor>BD Wong</actor>
+      <actor>Brennan Brown</actor>
+      <actor>Robert Taylor</actor>
+      <actor>Dotan Bonen</actor>
+      <actor>Griff Furst</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181201232500 -0200" stop="20181202005900 -0200" channel="Space">
+    <title lang="pt">Everly - Implacável e Perigosa</title>
+    <desc lang="pt">Uma escrava sexual que foi encarcerada por anos pelo chefe da máfia Yakuza enfrenta uma série de criminosos japoneses, a fim de proteger sua mãe e salvar sua filha, que não vê há anos(n)</desc>
+    <credits>
+      <director>Joe Lynch</director>
+      <actor>Salma Hayek</actor>
+      <actor>Laura Cepeda</actor>
+      <actor>Togo Igawa</actor>
+      <actor>Jennifer Blanc</actor>
+      <actor>Hiroyuki Watanabe</actor>
+      <actor>Masashi Fujimoto</actor>
+      <actor>Aisha Ayamah</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20181202005900 -0200" stop="20181202022400 -0200" channel="Space">
+    <title lang="pt">Um Dia de Caos</title>
+    <desc lang="pt">Um vírus se espalha através de um complexo de escritórios, fazendo com que todos os trabalhadores do local atinjam seus piores impulsos(n)</desc>
+    <credits>
+      <director>Joe Lynch</director>
+      <actor>Steven Yeun</actor>
+      <actor>Samara Weaving</actor>
+      <actor>Steven Brand</actor>
+      <actor>Caroline Chikezie</actor>
+      <actor>Dallas Roberts</actor>
+      <actor>Kerry Fox</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181202022400 -0200" stop="20181202040600 -0200" channel="Space">
+    <title lang="pt">Sem Vestígios</title>
+    <desc lang="pt">A agente Jennifer Marsh investiga as pistas de um criminoso que transmite torturas e assassinatos pela internet. O destino das vítimas depende de quantos visitantes entram na sua página(n)</desc>
+    <credits>
+      <director>Gregory Hoblit</director>
+      <actor>Diane Lane</actor>
+      <actor>Colin Hanks</actor>
+      <actor>Billy Burke</actor>
+      <actor>Joseph Cross</actor>
+      <actor>Mary Beth Hurt</actor>
+      <actor>Peter Lewis</actor>
+      <actor>Perla Haney-Jardine</actor>
+      <actor>Christopher Cousins</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181202040600 -0200" stop="20181202050000 -0200" channel="Space">
+    <title lang="pt">Movie Talk</title>
+    <desc lang="pt">Apresentado pelo experiente entrevistador Jason Solomons, Movie Talk é um exclusivo e aprofundado olhar sobre as carreiras dos atores e cineastas mais reconhecidos de Hollywood(n)</desc>
+    <credits>
+      <director>Lyndy Saville</director>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S5 E9</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181202050000 -0200" stop="20181202061900 -0200" channel="Space">
+    <title lang="pt">Sete Minutos</title>
+    <desc lang="pt">Um jovem é forçado a cometer um assalto junto a dois amigos, mas tudo dá errado e sua namorada, que está grávida, é sequestrada. Agora, eles deverão lutar pelas suas vidas(n)</desc>
+    <credits>
+      <director>Jay Martin</director>
+      <actor>Jason Ritter</actor>
+      <actor>Zane Holtz</actor>
+      <actor>Luke Mitchell</actor>
+      <actor>Brandon Hardesty</actor>
+      <actor>Kevin Gage</actor>
+      <actor>Meg McLynn</actor>
+      <actor>Jessica martin</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181202061900 -0200" stop="20181202075300 -0200" channel="Space">
+    <title lang="pt">Thor: O Martelo dos Deuses</title>
+    <desc lang="pt">Thor viaja com seus amigos para uma misteriosa ilha em busca de glória e fama. Ao chegar na ilha em meio a batalhas com estranhas criaturas, começa a ter visões sobre o martelo dos deuses e descobre que dicas para encontrá-lo(n)</desc>
+    <credits>
+      <director>Todor Chapkanov</director>
+      <actor>Zachery Ty Bryan</actor>
+      <actor>Mac Brandt</actor>
+      <actor>Daz Crawford</actor>
+      <actor>Nicole Ennemoser</actor>
+      <actor>Rafael Jordan</actor>
+      <actor>John Laskowski</actor>
+      <actor>Melissa Leigh</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181202075300 -0200" stop="20181202095000 -0200" channel="Space">
+    <title lang="pt">Bem-Vindo à Selva</title>
+    <desc lang="pt">Um incansável caçador de recompensas recebe uma nova incumbência: ir para a selva brasileira e achar o filho de um mafioso. Mas o interesse numa peça de ouro e as ações de um ambicioso homem da região atrapalham seus planos(n)</desc>
+    <credits>
+      <director>Peter Berg</director>
+      <actor>The Rock</actor>
+      <actor>Seann William Scott</actor>
+      <actor>Rosario Dawson</actor>
+      <actor>Christopher Walken</actor>
+      <actor>Ewen Bremner</actor>
+      <actor>Jon Gries</actor>
+      <actor>William Lucking</actor>
+      <actor>Ernie Reyes Jr</actor>
+      <actor>Dennis Keiffer</actor>
+      <actor>Toby Holguin</actor>
+    </credits>
+    <date>2003</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181202095000 -0200" stop="20181202110000 -0200" channel="Space">
+    <title lang="pt">De Placa</title>
+    <desc lang="pt">Rodrigo Rodrigues, Alê Oliveira, Mauro Beting, Gustavo Zupak e André Henning vão tornar as suas manhãs muito mais divertidas, com bom-humor, irreverência, algumas sessões de karaokê e até com discussões de futebol(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181202110000 -0200" stop="20181202123200 -0200" channel="Space">
+    <title lang="pt">Everly - Implacável e Perigosa</title>
+    <desc lang="pt">Uma escrava sexual que foi encarcerada por anos pelo chefe da máfia Yakuza enfrenta uma série de criminosos japoneses, a fim de proteger sua mãe e salvar sua filha, que não vê há anos(n)</desc>
+    <credits>
+      <director>Joe Lynch</director>
+      <actor>Salma Hayek</actor>
+      <actor>Laura Cepeda</actor>
+      <actor>Togo Igawa</actor>
+      <actor>Jennifer Blanc</actor>
+      <actor>Hiroyuki Watanabe</actor>
+      <actor>Masashi Fujimoto</actor>
+      <actor>Aisha Ayamah</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20181202123200 -0200" stop="20181202143500 -0200" channel="Space">
+    <title lang="pt">MIB - Homens de Preto 3</title>
+    <desc lang="pt">O agente J viaja pelo tempo de volta aos anos 60 para evitar o assassinato de seu amigo, o agente K, que mudaria o curso da história. Durante essa missão, J conhecerá muitos segredos, incluindo alguns que atormentaram K(n)</desc>
+    <credits>
+      <director>Barry Sonnenfeld</director>
+      <actor>Will Smith</actor>
+      <actor>Tommy Lee Jones</actor>
+      <actor>Josh Brolin</actor>
+      <actor>Emma Thompson</actor>
+      <actor>Michael Stuhlbarg</actor>
+      <actor>Nicole Scherzinger</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20181202143500 -0200" stop="20181202162700 -0200" channel="Space">
+    <title lang="pt">Eu Sou a Lenda</title>
+    <desc lang="pt">A população de Nova York foi dizimada por um vírus mortal. Um brilhante cientista é imune ao vírus e tenta encontrar outros sobreviventes, ao mesmo tempo em que busca um antídoto(n)</desc>
+    <credits>
+      <director>Francis Lawrence</director>
+      <actor>Will Smith</actor>
+      <actor>Alice Braga</actor>
+      <actor>Salli Richardson</actor>
+      <actor>Paradox Pollack</actor>
+      <actor>Charlie Tahan</actor>
+      <actor>Michael Ciesla</actor>
+      <actor>Thomas J. Pilutik</actor>
+      <actor>Darrell Foster</actor>
+      <actor>April Grace</actor>
+      <actor>Abby</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181202162700 -0200" stop="20181202182400 -0200" channel="Space">
+    <title lang="pt">Depois da Terra</title>
+    <desc lang="pt">Os humanos abandonaram a Terra há mil anos. Agora, o jovem Kitai e seu pai, o general Cypher Raige, caem em um planeta inóspito e Cypher está ferido. Neste momento, Kitai mostra seu valor e enfrenta perigos inimagináveis(n)</desc>
+    <credits>
+      <director>M. Night Shyamalan</director>
+      <actor>Jaden Smith</actor>
+      <actor>David Denman</actor>
+      <actor>Will Smith</actor>
+      <actor>Sophie Okonedo</actor>
+      <actor>Zoë Kravitz</actor>
+      <actor>Glenn Morshower</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181202182400 -0200" stop="20181202200200 -0200" channel="Space">
+    <title lang="pt">Isolados</title>
+    <desc lang="pt">Um casal tenta resolver uma crise em seu relacionamento com um fim de semana sozinhos em uma praia isolada. Ao chegarem lá, não tomam cuidados e poluem a área preservada. A mãe natureza busca vingança(n)</desc>
+    <credits>
+      <director>Jamie Blanks</director>
+      <actor>James Caviezel</actor>
+      <actor>Claudia Karvan</actor>
+      <actor>Robert Taylor</actor>
+      <actor>John Brumpton</actor>
+      <actor>Roger Ward</actor>
+      <actor>Lara Robinson</actor>
+      <actor>Gordon Waddell</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181202200200 -0200" stop="20181202220400 -0200" channel="Space">
+    <title lang="pt">Golpe Duplo</title>
+    <desc lang="pt">Nicky, um trapaceiro profissional, é escolhido como vítima por uma iniciante na profissão, Jess. Ele se deixa levar pelo golpe para desmascará-la no momento certo(n)</desc>
+    <credits>
+      <director>Glenn Ficarra</director>
+      <director>John Requa</director>
+      <actor>Will Smith</actor>
+      <actor>Margot Robbie</actor>
+      <actor>Adrian Martinez</actor>
+      <actor>Gerald McRaney</actor>
+      <actor>Rodrigo Santoro</actor>
+      <actor>BD Wong</actor>
+      <actor>Brennan Brown</actor>
+      <actor>Robert Taylor</actor>
+      <actor>Dotan Bonen</actor>
+      <actor>Griff Furst</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181202220400 -0200" stop="20181202235100 -0200" channel="Space">
+    <title lang="pt">Assim na Terra Como no Inferno</title>
+    <desc lang="pt">Um grupo de exploradores se perde em um labirinto de ossos nas catacumbas sob as ruas de Paris. Conhecida como a cidade dos mortos, aquela região atinge a psique humana revelando os demônios pessoais de cada um deles(n)</desc>
+    <credits>
+      <director>John Erick Dowdle</director>
+      <actor>Ben Feldman</actor>
+      <actor>Perdita Weeks</actor>
+      <actor>François Civil</actor>
+      <actor>Edwin Hodge</actor>
+      <actor>Marion Lambert</actor>
+      <actor>Cosme Castro</actor>
+      <actor>Samuel Aouizerate</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181202235100 -0200" stop="20181203005900 -0200" channel="Space">
+    <title lang="pt">Livrai-nos do Mal</title>
+    <desc lang="pt">O Oficial de polícia de Nova York, Ralph Sarchie, tem que investigar uma série de inexplicáveis crimes aterrorizantes. Quando conhece o sacerdote Mendoza, unirá forças para lutar contra as forças demoníacas que atormentam a cidade(n)</desc>
+    <credits>
+      <director>Scott Derrickson</director>
+      <actor>Eric Bana</actor>
+      <actor>Édgar Ramírez</actor>
+      <actor>Olivia Munn</actor>
+      <actor>Sean Harris</actor>
+      <actor>Chris Coy</actor>
+      <actor>Dorian Missick</actor>
+      <actor>Joel McHale</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+</tv>
